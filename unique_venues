@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+cut -d "|" -f3 "$1" | awk '!a[$0]++' | perl -pe 's/\n$/, /g;' | perl -pe 's/, $//'

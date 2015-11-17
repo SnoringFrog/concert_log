@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+echo -e "Show count: $(wc -l $1 |  awk '{print $1}')\n"
+
+echo -e "Cities/Venues:"
+
+./city_venue_list "$1"
+echo ""
+
+echo -e "Bands (highlights italicized/tagged):$(./unique_bands $1)\n"
+
+echo "New venues: /$(./count_unique_venues $1)"
+echo "New bands: /$(./count_unique_bands $1)"

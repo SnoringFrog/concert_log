@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+perl -F'\|' -ane 'print "$F[3]"' "$1" | perl -pe 's/\n//g;' -pe 's/, /,/g' | tr "," "\n" | sort | uniq -c | sort
