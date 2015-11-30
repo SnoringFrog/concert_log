@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
 var=`cut -d"|" -f 4 $1`
-count=$(echo $var | sed 's/, /,/g' | tr "," "\n" | wc -l)
+count=$(echo $var | sed 's/, /,/g' | tr "," "\n" | sort -u | wc -l)
 count=$((count-1)) #subtract one for the extra newline
 echo $count
