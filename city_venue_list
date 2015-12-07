@@ -4,7 +4,7 @@ IFS=$'\n'
 for show in $(cat "$1"); do
 	cities=$(echo "$show" | cut -d'|' -f 2) # | cut -d"," -f 1)
 	for city in "$cities"; do
-		city_venues=$(grep "$city" "$1" | cut -d'|' -f 3 | perl -pe 's/\n/, /g;' | perl -pe 's/, $//g') 
+		city_venues=$(grep "$city" "$1" | cut -d'|' -f 3 | awk '!a[$0]++' | perl -pe 's/\n/, /g;' | perl -pe 's/, $//g') 
 		if [ -z "$list" ]; then
 			list=$(echo "$(echo $city | cut -d',' -f1): $city_venues") 
 		else
