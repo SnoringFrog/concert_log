@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+var=`cut -d"|" -f 4 $1` 
+var=`echo $var | sed -e 's/, /,/g'`
+
+IFS=","
+
+for band in $var; do
+	nospace=`echo ${band,,} | sed -e 's/ //g'`
+	echo '\newglossaryentry{'$nospace'}{'
+	echo "	name=$band,"
+	echo "	description={}"
+	echo '}'
+done
