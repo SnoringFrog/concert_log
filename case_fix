@@ -1,0 +1,12 @@
+# String of commands to fix case for things I type inconsistently
+# Needs a safety check to make sure there is no .git dir in the target
+# Needs a loop against an array or something (switch to Python and use dict?)
+# Just need a better way to handle case issues overall
+
+find data -type f -print0 | xargs -0 sed -i 's/Kept on Hold/Kept On Hold/gi'
+find data -type f -print0 | xargs -0 sed -i 's/Live for what lasts/Live For What Lasts/gi'
+find data -type f -print0 | xargs -0 sed -i 's/Motionless In White/Motionless In White/gi'
+find data -type f -print0 | xargs -0 sed -i 's/Pianos Become the Teeth/Pianos Become the Teeth/gi'
+find data -type f -print0 | xargs -0 sed -i 's/Skies Over Bethany/Skies Over Bethany/gi'
+find data -type f -print0 | xargs -0 sed -i 's/Texas in July/Texas in July/gi'
+find data -type f -print0 | xargs -0 sed -i 's/My Enemies & I/My Enemies and I/gi'

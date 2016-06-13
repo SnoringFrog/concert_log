@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cat data/* > temp.txt
+./band_counts temp.txt | perl -lane 'print join " ",@F[1..$#F]' | sort | uniq -id
+rm temp.txt
