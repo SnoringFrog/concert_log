@@ -1,0 +1,16 @@
+Show count: 16
+
+Cities/Venues:
+Ottawa: House of Targ
+Lynchburg: Speakertree, Rivermont Pizza
+Harrisonburg: The Golden Pony
+Virginia Beach: Shaka's Live, Hook Up
+Raleigh: Southland Ballroom
+Norfolk: The NorVA, Norfolk Taphouse
+Richmond: Canal Club
+Apex: The Lodge
+
+Bands (highlights italicized/tagged): Average Times, Blve Hills, Elementals, The Almighty Rhombus, Wes Montgomery, Chad Lowry, Hemingway, Attalus, Heavens Die, Crab Action, Comeback Kid, Catalyst, Ghost Noir, Of Tyrants, Fallujah, Mourning After, Dear Desolate, To Speak of Wolves, Oh Sleeper, Aeges, The Dead Deads, Chevelle, Quick On My Feet, Fin, Fitzgerald, Progress, Oh the Humanity!, Invaluable, The New Regime, The Used, Lost In Society, The Record Collection, War Bonds, Paper Trail, The Unabombers, Agnostic Front, 12 Stones, Tantric, Crazytown, Alien Ant Farm, Saving Abel, Saliva, Trapt, Sledge, Charmer, Beggars Row, Reckoner, Rothschild, Take the Fall, Averman, Mending Fences, Movements, Have Mercy, This Wild Life, Gillian Carter, Iselia, Household, Church Tongue
+
+New venues: /11
+New bands: /58

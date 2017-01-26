@@ -1,0 +1,16 @@
+Show count: 16
+
+Cities/Venues:
+Richmond: Identity House, The Camel
+Harrisonburg: The Clementine
+Norfolk: 37th and Zen, Norfolk Taphouse, The NorVA
+Durham: Durham Performing Arts Center
+Virginia Beach: Hook Up Cafe, Town Center of Virginia Beach
+Chesapeake: Riffhouse Pub
+Lynchburg: Speakertree
+Norfolk: 2 and Ghost
+
+Bands (highlights italicized/tagged): Tiny Shaking Fists, Eryn Hilburn, Formerly Bodies, Eaves, Strong Water, The Last Bison, Suicide Season, Amid the Roar, Citizen Train, Countermeasures, Unwill, Terraform, Dream Theater, Goodnight Texas, Bombadil, Clever Girl, Burns Like Fire, wolves&wolves&wolves&wolves, Jordan Lanzillotti, Logan Carpenter, Copperond Stars, Invaluable, Almost People, Abomination in Conflict With Mechanical Death, Murder, Pathogenesis, Sledge, Charmer, Boxford, Hanging Moon, Joy, Mongrels, Bloom, Never I, To Speak of Wolves, Knox Hamilton, The Heydaze, Milky Chance, Errant, Chloe Wallace, Christian Welch, Kevin Schlereth, Chris Bernstorf, Foreign Air, Phantogram, The Deloreans, BJ Griffin and the Galaxy Groove, Jesse Chong, Smash Mouth
+
+New venues: /12
+New bands: /49

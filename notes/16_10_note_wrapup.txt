@@ -1,0 +1,17 @@
+Show count: 15
+
+Cities/Venues:
+Fayetteville: Temple Baptist Church
+Raleigh: Arizona Pete's
+Carrboro: Cat's Cradle
+Norfolk: The NorVA, Norfolk Taphouse
+Richmond: Identity House, Canal Club
+Winchester: Valley Cat
+Chapel Hill: Local 506
+Virginia Beach: Hook Up Cafe, Shakas
+Rocky Mount: Dunn Center for the Performing Arts
+
+Bands (highlights italicized/tagged): Brent Tatum, Olivia Spain, The Ambassador, Shiloh, Zealand Worship, John Waller, Young Noah, Audio Adrenaline, Aether Realm, Nekrogoblikon, Alestorm, You Blew It, Taking Back Sunday, Bottom of the Ninth, Give Em Hell Kid, Until the Wind Shifts, Such Great Heights, Eaves, Addison, Kept On Hold, Doctor Brixx, Sam's the Hero, Wandcarver, Hexist, Jucifer, DENS, Savage Hands, Underdog Champs, More to Monroe, Like Moths to Flames, Silverstein, All the Little Trees and Me, Poncho Model, So Much Light, Polyenso, But You Can Call Me John, Patient Zero, Rotten, Nomadic, Gaffer Project, Pkew Pkew Pkew, Barons, Culture Abuse, Tiny Moving Parts, Touche Amore, Hydra, Marc Rizzo, The New Respects, Tedashii, Crowder
+
+New venues: /13
+New bands: /50

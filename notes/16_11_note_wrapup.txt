@@ -1,0 +1,14 @@
+Show count: 15
+
+Cities/Venues:
+Chesapeake: Riffhouse Pub
+Virginia Beach: Hook Up Cafe, Shakas
+Falls Church: VFW Post 9274
+Richmond: The National
+Norfolk: 37th and Zen, The NorVA
+Raleigh: Ritz
+
+Bands (highlights italicized/tagged): Countermeasures, I Ohms, A Time to Die, Denihilist, Pathways, In Dying Arms, No Biggie, Dead Bars, Somniatis, Hallow, Set to Sail, Liotta, Riviera, Dear Adamus, Cold Collective, Anarbor, Emarosa, Boss' Daughter, Torres, Tegan and Sara, Needle Points, YoniWolf, mewithoutYou, I Disappear, Dead and Dreaming, Paper Trail, Naysayer, Leeway, Bar Parents, Rushmore, Glenrose, Pudge, Ella Vader, Drop the Girl, The Attack, Bigwig, Less Than Jake, Big Jesus, Hit the Lights, The Story So Far, Good Charlotte, Spicy Boys, Cremains, Diseased Earth, BATO, Drones for Queens, Amara, Grum, Pegboard Nerds, Unlike Pluto, Seven Lions, Treble Lifter, Genosha, Born Hollow, Gaffer Project, The Obsolete Man
+
+New venues: /8
+New bands: /56
