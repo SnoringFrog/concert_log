@@ -1,0 +1,2 @@
+#!/bin/env bash
+ag "$1" --nofilename | awk -F'|' '{print $3}' | sort -u
