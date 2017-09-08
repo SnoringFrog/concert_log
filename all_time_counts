@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
 
-cat data/* > .count_temp.txt
-./band_counts .count_temp.txt
-rm .count_temp.txt
+./band_counts <(cat data/*)

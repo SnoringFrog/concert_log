@@ -2,4 +2,4 @@
 
 
 var=`cut -d"|" -f 4 $1` 
-echo $var | sed -e 's/, /\n/g' -e 's/,//g' | awk '!a[$0]++' | perl -pe 's/\n$/, /g' | perl -pe 's/, $//'
+echo $var | sed -e 's/, /\n/g' -e 's/,//g' | awk '!a[tolower($0)]++' | perl -pe 's/\n$/, /g' | perl -pe 's/, $//'
