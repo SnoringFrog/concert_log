@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-perl -F'\|' -ane 'print "$F[3]"' "$1" | perl -pe 's/\n//g;' -pe 's/, /,/g' | tr "," "\n" | sort | uniq -c | sort
+# Print out how many times I've seen each band that I've seen in the given input files
+perl -F'\|' -ane 'print "$F[3]"' "$@" | perl -pe 's/,\s*/\n/g' | sort | uniq -c | sort
