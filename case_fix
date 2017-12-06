@@ -22,3 +22,4 @@ find data -type f -print0 | xargs -0 sed -i 's/Quick On My Feet/Quick On My Feet
 find data -type f -print0 | xargs -0 sed -i 's/Sent By Ravens/Sent By Ravens/gi'
 find data -type f -print0 | xargs -0 sed -i 's/Set For Tomorrow/Set For Tomorrrow/gi'
 find data -type f -print0 | xargs -0 sed -i 's/Through Life In Mono/Through Life In Mono/gi'
+find data -type f -print0 | xargs -0 sed -i 's/X-Ambassadors/X Ambassadors/gi'
