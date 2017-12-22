@@ -1,0 +1,42 @@
+Show count: 21
+
+Cities/Venues:
+Norfolk: Charlie's American Cafe, Grace O'Malley's, Cure Coffeehouse and Brasserie, The Commune, Waterside District, The NorVa, Two and Ghost, Norfolk Taphouse, Pourhouse of Norfolk
+Hartford: XFinity Theatre
+Boston: Loretta's Last Call
+Providence: Dusk
+Virginia Beach: Shaka's Live
+Hampton: Victorian Station
+Richmond: Strange Matter, The Camel, The Fireplace
+
+Bands (highlights tagged): The Real Enemies, Murder, Charmer, Joy, Black Mask, Rivers Rust, Counting Crows, Matchbox Twenty, Copilot, Type Beat, Make America Skate Again, Hello Atlantic, Leters to Jenny, Donal O’Shaughnessy, Emily Lewin, Meredith Rounsley, The Framers, Mosquito Cabaret (2x), Mammoth Indigo, Rozwell Kid, Taking Back Sunday, Frenship, Bastille, O House of Jacob, Give Em Hell Kid, Lorna Shore, Capsize, Fire From The Gods, Ice Nine Kills, Miss May I, Slaghead, Tetrarch, Uncured, Cane Hill, 36 Crazyfists, DevilDriver, Palm Springsteen, Foster the People, Flips of Fury, Party Wave, Rose Milk, Same Time Tomorrow, Rowan, Find Me Alive (2x), Friends With Monsters, Backside Slappy, Centerfolds, Averman, Harmony Layne, ALNTN, Nick Robertson, Mile Twelve, Dover and the Elevators, Gaffer Project (2x), Rebel Drive, The Mostly Dead, Genosha, Deathsinger, Black Matter Device, Barabbas, Accident Prone, Nine Line, Sleave, Eaves (2x), Dryjacket, Existing in Absence, Villified, Bad Omens, Venomspitter, Gouge Away, Single Mothers, Touche Amore, Two Cars, Having Keepsake, In the Water
+
+New venues: 8/17
+New bands: 44/75
+
+-------
+
+September wrap up!
+
+Man, it's surprising how quickly I start getting behind on these. Anyhow, September was a good month. First time in a while I've taken a decent roadtrip and knocked some states off of my list (CT, MA, RI). On top of that, had a good blend of small and large shows for the month. This is also the earliest in the year I've ever passed 150 shows. In 2016, that didn't happen until November, and it never quite happened in 2015. This year has been crazy, apparently.
+
+And not that it's visible to anyone reading this on FB, but I finally reworked some of the scripts I wrote to calculate some of these stats. Putting these wrap-ups together is much faster now, although I do still need to automate counting how many bands/venues were new to me in a given month. I've got a rough shell of that script written, just need to actually sit down and work on it.
+
+Shows in September: 21
+Shows in 2017 so far: 163
+
+Notable new artists to me: Copilot, Make American Skate Again, Hello Atlantic, Mile Twelve, Sleave, Gouge Away, Single Mothers
+
+Best show: Even though I had to leave early, probably Charmer/Joy/Black Mask. Either that or the RI "Pop Punk Pajama Pizzalooza" show. There was free pizza (can't get more pop punk than that), and RI pop punk is cool.
+
+Shows I was bummed to miss: Big Something in VB and Emarosa in Richmond
+
+Other random facts/stats:
+This month was my first time at 8 of the 17 venues I went to.
+This month was my first time seeing 44 of the 75 bands I saw perform live.
+Avg shows per week for 2017: 4.18
+Days/shows ratio so far for 2017: 1.67:1
+Approximate avg shows per month since birth: 1.90
+Avg shows per month since Sept '14: 14.38
+
+Other months: https://www.facebook.com/espiekarski/notes?lst=100001385057628%3A1405230010%3A1484594066
