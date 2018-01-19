@@ -12,12 +12,13 @@ find data -type f -print0 | xargs -0 sed -i 's/Texas in July/Texas in July/gi'
 find data -type f -print0 | xargs -0 sed -i 's/My Enemies & I/My Enemies and I/gi'
 find data -type f -print0 | xargs -0 sed -i 's/A Time To Die/A Time To Die/gi'
 find data -type f -print0 | xargs -0 sed -i 's/CounterMeasures/Countermeasures/gi'
-find data -type f -print0 | xargs -0 sed -i 's/, DENS,/, DENS,/gi'
+find data -type f -print0 | xargs -0 sed -i 's/\bDENS\b/DENS/gi'
 find data -type f -print0 | xargs -0 sed -i 's/Friends With Monsters/Friends With Monsters/gi'
 find data -type f -print0 | xargs -0 sed -i 's/In the water/Inthewater/gi'
 find data -type f -print0 | xargs -0 sed -i 's/Less Than Jake/Less Than Jake/gi'
 find data -type f -print0 | xargs -0 sed -i 's/letlive/letlive/gi'
 find data -type f -print0 | xargs -0 sed -i 's/NewSong/NewSong/gi'
+find data -type f -print0 | xargs -0 sed -i 's/All The Trees and Little Me/All The Trees and Little Me/gi'
 find data -type f -print0 | xargs -0 sed -i 's/Quick On My Feet/Quick On My Feet/gi'
 find data -type f -print0 | xargs -0 sed -i 's/Sent By Ravens/Sent By Ravens/gi'
 find data -type f -print0 | xargs -0 sed -i 's/Set For Tomorrow/Set For Tomorrrow/gi'
@@ -25,3 +26,5 @@ find data -type f -print0 | xargs -0 sed -i 's/Through Life In Mono/Through Life
 find data -type f -print0 | xargs -0 sed -i 's/X-Ambassadors/X Ambassadors/gi'
 find data -type f -print0 | xargs -0 sed -i 's/Norva/NorVa/gi'
 find data -type f -print0 | xargs -0 sed -i "s/Sams the Hero/Sam's the Hero/gi"
+find data -type f -print0 | xargs -0 sed -i "s/Beggars Row/Beggar's Row/gi"
+find data -type f -print0 | xargs -0 sed -i "s/Harms Way/Harm's Way/gi"
