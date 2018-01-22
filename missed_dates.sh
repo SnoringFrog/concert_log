@@ -2,6 +2,9 @@
 
 months=('Jan' 'Feb' 'Mar' 'Apr' 'May' 'Jun' 'Jul' 'Aug' 'Sep' 'Oct' 'Nov' 'Dec')
 days_in_months=(31 29 31 30 31 30 31 31 30 31 30 31)
+outfile='missed_dates.txt'
+
+echo `date` > $outfile
 
 for m in {1..12}; do
 	printf -v pm "%02d" $m #get zero-padded month
@@ -15,7 +18,8 @@ for m in {1..12}; do
 		remaining_days=(${remaining_days[@]//*$ds*})
 	done
 
-	echo "${months[$((m-1))]}:"
-	echo ${remaining_days[@]}
-	echo
+
+	echo "${months[$((m-1))]}:" | tee -a $outfile
+	echo ${remaining_days[@]} | tee -a $outfile
+	echo | tee -a $outfile
 done
