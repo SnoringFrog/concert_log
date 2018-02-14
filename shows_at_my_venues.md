@@ -16,5 +16,9 @@
 |11/02/17|Norfolk, VA  |Two and Ghost|The FoxSmiths, Downhaul, Quikk Cicala, Every King and Commoner
 |12/12/17|Norfolk, VA  |Two and Ghost|Mykal Allen, Year As A Ghost, Every King and Commoner, Woven In Hiatus
 |12/16/17|Norfolk, VA  |Two and Ghost|neverAM, Brian Howerin, Ray Buckner, Sam's the Hero
+|02/06/18|Norfolk, VA  |Two and Ghost|Same Time Tomorrow, Sine Cura, MKNLY, Drop the Girl
+|02/09/18|Norfolk, VA  |Two and Ghost|Boxford, Invaluable, Sugar Lips, Alntn, Rowan
+|02/14/18|Norfolk, VA  |Two and Ghost|Karen Estrella + Thomas Glantz, Jimmy Agrios, Steve Bunting, The Hecklets, Anna Silva + Kelly Zahkratka, Tim Singer, Erik Liner, Austin Fontenot*
+
 
 *: Shows I missed.
