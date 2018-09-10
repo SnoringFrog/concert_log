@@ -31,7 +31,8 @@ avg_shows_since_birth=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_since_birth $mo
 avg_shows_since_sep14=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_since_sep14 $months_since_sep14")
 
 # Counting new bands/venues:
-cur_year=$(seq -f"data/${year}_%02g" 1 $(printf "%02d" $(($month-1)))) # excludes this month
+# the 10# converts from base-10 to base-10 to strip leading zeroes that made $(()) think I wanted octal
+cur_year=$(seq -f"data/${year}_%02g" 1 $((10#$month-1))) # excludes this month
 date_files_for_new_counts="$(seq -f"data/%g*" 1991 $((year-1))) $cur_year data/unknown_date"
 new_bands_count=$(./new_bands.py "$(./unique_bands <<<$(cat $date_files_for_new_counts 2>/dev/null))" "$(./unique_bands $date_file)")
 
