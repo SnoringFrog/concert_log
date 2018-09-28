@@ -33,3 +33,8 @@ find data -type f -print0 | xargs -0 sed -i "s/Harms Way/Harm's Way/gi"
 find data -type f -print0 | xargs -0 sed -i "s/Year As A Ghost/Year As a Ghost/gi"
 find data -type f -print0 | xargs -0 sed -i "s/\bErra\b/ERRA/gi"
 find data -type f -print0 | xargs -0 sed -i "s/The World Is a Beautiful Place and I am No Longer Afraid to Die/The World Is A Beautiful Place and I Am No Longer Afraid To Die/gi"
+
+# Issues with sometimes omitting 'The' at the beginning of a band name
+# I need a script to check for times this happens too
+find data -type f -print0 | xargs -0 sed -i 's/Stillborn Poet/The Stillborn Poet/gi'
+find data -type f -print0 | xargs -0 sed -i 's/World\/Inferno Friendship Society/The World\/Inferno Friendship Society/gi'
