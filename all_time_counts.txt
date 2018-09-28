@@ -1,13 +1,17 @@
       1 (neverAM)
       1 (SP)LIT
+      1 [Riffhouse Open Mic 9/19/18 artist 1]
+      1 [Riffhouse Open Mic 9/19/18 artist 2]
+      1 [Riffhouse Open Mic 9/19/18 artist 3]
+      1 [Riffhouse Open Mic 9/19/18 artist 4]
+      1 [Riffhouse Open Mic 9/19/18 artist 5]
       1 12 Stones
       1 1970s Film Stock
       1 36 Crazyfists
       1 3OH!3
       1 3PM
       1 6 String Drag
-      1 68
-      1 '68
+      1 6:22
       1 70x7
       1 7th Hall
       1 8 Inner Gates
@@ -36,6 +40,7 @@
       1 AFI
       1 After Me The Flood
       1 After the Burial
+      1 After the Fall
       1 Afterlife
       1 Against Me!
       1 Against Us All
@@ -52,7 +57,6 @@
       1 All My Circuits
       1 All Time Low
       1 Almost People
-      1 Alntn
       1 Alright Junior
       1 Alter Bridge
       1 Amara
@@ -74,7 +78,6 @@
       1 Archie Six-String and the Bad Dudes
       1 Arm the Witness
       1 Arms and Sleepers
-      1 As Cities Burn
       1 As It Is
       1 Ascend the Hill
       1 Ascension
@@ -105,6 +108,7 @@
       1 Barabbas
       1 Barlow Girl
       1 Barons
+      1 Barren Heir
       1 Barrier
       1 Basilica
       1 Bastille
@@ -120,6 +124,7 @@
       1 Belle Epoque
       1 Belle Haven
       1 Belle Noire
+      1 Belmont
       1 Belson
       1 Bennett Wales and the Relief
       1 Berries
@@ -230,6 +235,7 @@
       1 Chivalry's Not Dead
       1 Chris August
       1 Chris Cobb
+      1 Chris Mattingly
       1 Chris Oberholtzer
       1 Christopher Lockett
       1 Chunk No Captain Chunk
@@ -292,6 +298,7 @@
       1 Currents-CT
       1 Curses
       1 Cyaegha
+      1 Cyber Twin
       1 Dad Jokes
       1 Dads
       1 Dane Page
@@ -304,7 +311,6 @@
       1 Dawes
       1 DCF
       1 Dead Bars
-      1 Dead Birds
       1 Dead Eyes
       1 Deadland
       1 Deaf Poets
@@ -321,7 +327,6 @@
       1 Deez Nuts
       1 Defeater
       1 Definition of One
-      1 DeFuzed
       1 Denihilist
       1 Dennis Thorne
       1 Desolate
@@ -355,6 +360,7 @@
       1 Dr. Con
       1 Dream Theater
       1 Driven
+      1 DRMCTHR
       1 Drones for Queens
       1 Dropkick Murphys
       1 Drug Yacht
@@ -394,9 +400,7 @@
       1 Eureka California
       1 Evans City Saints
       1 Even Chains
-      1 Every Day
       1 Every Time I Die
-      1 Everyday
       1 Everyone Dies In The End
       1 Everyone Dies in Utah
       1 Evil Dead: The Musical
@@ -416,7 +420,6 @@
       1 False Cape
       1 Family Force 5
       1 Farcry
-      1 FarCry
       1 Fear of Music
       1 Feenixpawl
       1 Fero Lux
@@ -433,6 +436,7 @@
       1 Floating Teeth
       1 Flogging Molly
       1 Flower
+      1 Flowers for Faye?
       1 Flyleaf
       1 Fool's Errand
       1 For I Desire Mercy
@@ -441,8 +445,6 @@
       1 Foreign Air
       1 Foreign Sons
       1 Foreign War
-      1 Forester
-      1 Foresterr
       1 Foster the People
       1 Foundation
       1 Fourth Son
@@ -578,6 +580,7 @@
       1 Indecision
       1 InDirections
       1 Industry Standard
+      1 Injun Joe
       1 Inner Alchemy
       1 Invoking the Abstract
       1 Irae
@@ -619,6 +622,8 @@
       1 Kameron Barton
       1 Kaonashi
       1 Kate Price
+      1 Kayak Jones
+      1 Keelan Donovan
       1 Keely Burn
       1 Keilan Creech
       1 Keith Mathis
@@ -665,7 +670,6 @@
       1 Life Partner
       1 Lifeblood
       1 Lifelike
-      1 Like a Love Affair
       1 Like A Love Affair
       1 Limbs
       1 Lindsey Stirling
@@ -699,6 +703,7 @@
       1 Macro Crust
       1 Magnolia
       1 Make America Skate Again
+      1 MakeWar
       1 Mallcops
       1 Mammoth Indigo
       1 Manafest
@@ -814,6 +819,7 @@
       1 Omni
       1 Omnislash
       1 On Better Terms
+      1 On Solid Ground
       1 On the Cinder
       1 Opposition Bypass
       1 Orlee
@@ -917,6 +923,7 @@
       1 Russ
       1 Ryan Stevenson
       1 Sabaton
+      1 Safe Bet
       1 Safe Word
       1 Sailor's Mouth
       1 Saint Asonia
@@ -977,6 +984,7 @@
       1 Slithis
       1 Slowriter
       1 Small Brown Bike
+      1 Smallpools
       1 Smash Mouth
       1 Snails
       1 Snake Mountain Revival
@@ -992,10 +1000,12 @@
       1 Sonata Arctica
       1 SONS
       1 South Hill Banks
+      1 Southpaw
       1 Souvenirs
       1 Sovereign Strength
       1 Sow
       1 Space Koi
+      1 Sparks in Stereo
       1 Sparks the Rescue
       1 Speak Low If You Speak Love
       1 Spicy Boys
@@ -1013,7 +1023,6 @@
       1 Steel City Ruins
       1 Step Off
       1 Stereobloom
-      1 Stereo-types
       1 Steve Bunting
       1 Steve On7y
       1 Stoic
@@ -1024,15 +1033,17 @@
       1 STRFKR
       1 Strike Out Kid
       1 Strong Water
+      1 Strung Out
       1 STS9
+      1 Sub-Radio
       1 Substance
+      1 Such Gold
       1 Such Great Heights
       1 Sudden Suspension
       1 Suffer Through
       1 Sugar Lips
       1 Suicidal Tendencies
       1 Sum 41
-      1 Summer Bruise
       1 Sun Parade
       1 Sunbears!
       1 Sundream
@@ -1133,6 +1144,7 @@
       1 The Necessary
       1 The New Regime
       1 The New Respects
+      1 The Old You
       1 The Orphan the Poet
       1 The Pretty Reckless
       1 The Protomen
@@ -1149,6 +1161,7 @@
       1 The Sleepover
       1 The Southern Belles
       1 The Spells
+      1 The States
       1 The Sugar Lips
       1 The Summer Set
       1 The Thieving Hand
@@ -1157,7 +1170,6 @@
       1 The Vespers
       1 The Wake Within
       1 The Wet Boys
-      1 The World/Inferno Friendship Society
       1 The You Go Girls
       1 Third Day
       1 Third Eye Blind
@@ -1165,6 +1177,7 @@
       1 This Town Needs Guns
       1 Thousand Below
       1 Thousand Foot Krutch
+      1 Thunder Dreamer
       1 Thundercloud Kid
       1 Thursday
       1 Thy Art Is Murder
@@ -1204,13 +1217,13 @@
       1 Tyler Ramsey
       1 Tyler Steven Key
       1 Type Beat
-      1 Ude
       1 Ugly Flannel
       1 Uncured
       1 Under Paris
       1 Under Tribulation
       1 Underdog Champs
       1 Unifier
+      1 United Dumpster Empire
       1 Unity
       1 Unlike Pluto
       1 Unmaker
@@ -1262,6 +1275,7 @@
       1 Whiskey Diablo
       1 Whiskey Wells
       1 Wild Hymns
+      1 Wild Pink
       1 William Beckett
       1 William Wild
       1 Wilson
@@ -1271,7 +1285,6 @@
       1 Within the Ruins
       1 Wkndr
       1 Woe is Me
-      1 World/Inferno Friendship Society
       1 Worst Case
       1 Worth Dying For
       1 Worthwhile
@@ -1282,8 +1295,6 @@
       1 xLookingForwardx
       1 Y!kes
       1 Yashira
-      1 Year as a Ghost
-      1 Year As A Ghost
       1 Years Apart
       1 Years End
       1 Yellow Cavalier
@@ -1304,18 +1315,19 @@
       1 ZTU
       1 惡AI意
       2 2x4
-      2 6:22
+      2 '68
       2 A Boy Named Sue
+      2 A Clerestory
       2 A Time To Die
       2 After the Movies
       2 Alexa Rose
       2 All The Trees and Little Me
       2 Alliteration
-      2 ALNTN
       2 Amessa
       2 Anberlin
       2 Anchor the Airship
       2 Andy Mineo
+      2 As Cities Burn
       2 Attalus
       2 Author
       2 Averman
@@ -1332,7 +1344,6 @@
       2 Black Mask
       2 Black Matter Device
       2 Bobby Orr
-      2 Bonne Chere
       2 Broadside
       2 Caleb Blair
       2 Capital Kings
@@ -1355,7 +1366,7 @@
       2 David Crowder Band
       2 David Haught
       2 Dayseeker
-      2 Defuzed
+      2 Dead Birds
       2 Delain
       2 Della Memoria
       2 Demon Hunter
@@ -1369,6 +1380,7 @@
       2 Enforced
       2 Errant
       2 Eryn Noelle
+      2 Every Day
       2 Everymen
       2 Families
       2 Fire From The Gods
@@ -1378,6 +1390,7 @@
       2 Flight Club
       2 Followship
       2 Forest Green
+      2 Foresterr
       2 Forlorn Strangers
       2 Foxing
       2 Franni Rae Cash
@@ -1400,7 +1413,6 @@
       2 i fight vampires
       2 In Your Memory
       2 Incited
-      2 Injun Joe
       2 Invoke
       2 James Deering
       2 Jane Marczewski
@@ -1448,7 +1460,6 @@
       2 No Zodiac
       2 Norelle Evans
       2 Norma Jean
-      2 On Solid Ground
       2 One Year Later
       2 Our Blue Lights
       2 Outward Conversation
@@ -1481,14 +1492,12 @@
       2 Sledge
       2 Sleep On It
       2 Sleeping with Sirens
-      2 Sparks in Stereo
       2 Starcoast
       2 Steal the Prize
-      2 Stereo-Types
-      2 Stillborn Poet
       2 Strawberry Girls
       2 Suicide Season
       2 Sumerlin
+      2 Summerbruise
       2 Suneater
       2 Super Whatevr
       2 Swear and Shake
@@ -1510,6 +1519,7 @@
       2 The Sun Kite
       2 The Unabombers
       2 The Word Alive
+      2 The World/Inferno Friendship Society
       2 The Worshiper
       2 Thrice
       2 Throne of Botis
@@ -1527,15 +1537,16 @@
       2 What We Do In Secret
       2 Wither
       2 X Ambassadors
+      2 Year As a Ghost
       2 Ytterbium
       2 Zao
-      3 A Clerestory
       3 As Hell Retreats
       3 Ashes
       3 August Burns Red
       3 Autopsy Affair
       3 Bar Parents
       3 Bare the Traveler
+      3 Bonne Chere
       3 Breaking Benjamin
       3 Brettan Cox
       3 Bring the Arsenal
@@ -1548,6 +1559,7 @@
       3 Colony House
       3 Dead and Dreaming
       3 Deathbreaker
+      3 Defuzed
       3 Demons
       3 Disciple
       3 Dogwood Tales
@@ -1571,7 +1583,6 @@
       3 Kill the Mime
       3 KJ-52
       3 Kutless
-      3 L.A. Dies
       3 Laura McElroy
       3 Left Behind
       3 Less Than Jake
@@ -1579,7 +1590,6 @@
       3 Like Pacific
       3 Matisyahu
       3 Mayday Parade
-      3 Mirador
       3 Mirkwood
       3 Motives
       3 Neck Deep
@@ -1602,6 +1612,7 @@
       3 Skies Over Bethany
       3 Sleeping Giant
       3 Sleepwave
+      3 Stereo-Types
       3 Sun and Flesh
       3 Texas in July
       3 The Chicken Boys
@@ -1622,18 +1633,17 @@
       3 Unicron
       3 Until the Wind Shifts
       3 Until We Are Ghosts
-      3 Vacation Manor
       3 Varials
       3 Vilified
       3 Wesley Montgomery
       3 wolves&wolves&wolves&wolves
       4 Advent
+      4 ALNTN
       4 Amid the Roar
       4 Andrew Warner
       4 Ann Perkins
       4 Atlas Rhoads
       4 Blood of the Martyrs
-      4 Bloom
       4 Born of Osiris
       4 BoughtXBlood
       4 Chloe Wallace
@@ -1649,7 +1659,9 @@
       4 Have Mercy
       4 Ian Randall Thornton
       4 Icarus
+      4 L.A. Dies
       4 Mediator
+      4 Mirador
       4 Murder
       4 My Epic
       4 Of Tyrants
@@ -1666,10 +1678,12 @@
       4 TLVS
       4 Todd Agnew
       4 Toxic Moxie
+      4 Vacation Manor
       4 Warwick
       4 Wolves at the Gate
       4 yesman
       5 Big Something
+      5 Bloom
       5 Born Sick
       5 Broken Harmonics
       5 Carl Anderson
@@ -1689,7 +1703,6 @@
       5 Native Spirit
       5 Never I
       5 NewSong
-      5 Ray Buckner
       5 Real Friends
       5 Rose Milk
       5 RVNT
@@ -1698,7 +1711,6 @@
       5 Strengthen What Remains
       5 The Death In Me
       5 The Handsome Bandits
-      5 The Stillborn Poet
       5 Tirades of a Timid Tongue
       5 White Petals
       5 Witness
@@ -1708,15 +1720,16 @@
       6 Eight Days From December
       6 Ella Vader
       6 Embracer
+      6 Embracing Goodbye
       6 Four Year Strong
       6 From the Wild
       6 Heavy Burdens
-      6 Invaluable
       6 Jake Ziegler and the Locals
       6 Joy
       6 mewithoutYou
       6 Of Alessa
       6 Poured Out
+      6 Ray Buckner
       6 Rowan
       6 Someone Just Like You
       6 Sunndrug
@@ -1731,12 +1744,13 @@
       7 Bombadil
       7 Catalyst
       7 Dogs Eyes
-      7 Embracing Goodbye
       7 I Ohms
+      7 Invaluable
       7 Live For What Lasts
       7 Must Be The Holy Ghost
       7 Paper Trail
       7 Pianos Become the Teeth
+      7 The Stillborn Poet
       7 Threads
       7 To Speak of Wolves
       8 Dwell
@@ -1747,18 +1761,18 @@
       9 Quick On My Feet
      10 Fin
      10 Hemingway
-     11 Boxford
      11 Pathway Home
      13 Accident Prone
+     13 Boxford
      13 Household
-     13 Inthewater
+     14 Inthewater
+     14 The Separate
      15 Born Hollow
      15 Kept On Hold
-     15 The Separate
      18 Gaffer Project
      18 The Obsolete Man
      20 Kevin Schlereth
-     21 Eaves
+     22 Eaves
      22 Logan Vath
      24 Comrades
      25 Chris Bernstorf
