@@ -1,4 +1,4 @@
-Last updated 9/10/2018
+Last updated 12/13/2018
 
 See a show in every state
 Progress: 28/50
@@ -42,3 +42,5 @@ Shows in a week (Sun-Sat): 10 (May 2017)
 Shows in a month: 34 (May 2017)
 
 Shows in a year: 212 (2017)
+
+Consecutive days with a show:
