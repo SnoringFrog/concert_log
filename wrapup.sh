@@ -34,24 +34,34 @@ avg_shows_since_sep14=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_since_sep14 $mo
 # the 10# converts from base-10 to base-10 to strip leading zeroes that made $(()) think I wanted octal
 cur_year=$(seq -f"data/${year}_%02g" 1 $((10#$month-1))) # excludes this month
 date_files_for_new_counts="$(seq -f"data/%g*" 1991 $((year-1))) $cur_year data/unknown_date"
-new_bands_count=$(./new_bands.py "$(./unique_bands <<<$(cat $date_files_for_new_counts 2>/dev/null))" "$(./unique_bands $date_file)")
 
-# Similar story for venues, but I'll need a new script since mine's built for output. 
-#	That script should do venuename-cityname, to cover for things like House of Blues or Upper Room
-#	since there are multiple venues with those names.
+# I should probably rename new_bands.py since it doesn't just handle bands now
+# new_bands.py args: [old list], [new list], [string to append to log file name]
+new_bands_count=$(./new_bands.py "$(./unique_bands <<<$(cat $date_files_for_new_counts 2>/dev/null))" "$(./unique_bands $date_file)" "bands")
+new_venues_count=$(./new_bands.py "$(./unique_venues <<<$(cat $date_files_for_new_counts 2>/dev/null))" "$(./unique_venues $date_file)" "venues")
 
 
 ###########################
 
 echo -e "Show count: $shows_in_month\n"
-echo -e "Cities/Venues:"
-./city_venue_list "$date_file"
-echo ""
 
-echo -e "Bands (highlights tagged): $(./unique_bands $date_file)\n"
+# List of shows, slightly cleaned up from my internal format
+echo -e "Shows (highlights tagged):"
+perl -F'\|' -lane 'print "$F[0] - $F[1] - $F[2]\n", substr($F[3], 0, -1),"\n"' $date_file
 
-echo "New venues: /$unique_venues_count"
+echo "New venues: $new_venues_count/$unique_venues_count"
 echo "New bands: $new_bands_count/$unique_bands_count"
+
+# Old format, mostly equivalent to the fb_note script
+#echo -e "Show count: $shows_in_month\n"
+#echo -e "Cities/Venues:"
+#./city_venue_list "$date_file"
+#echo ""
+
+#echo -e "Bands (highlights tagged): $(./unique_bands $date_file)\n"
+
+#echo "New venues: /$unique_venues_count"
+#echo "New bands: $new_bands_count/$unique_bands_count"
 
 echo -e "-----------------------------------------------\n"
 echo "$month_name wrap up!
@@ -70,7 +80,7 @@ Shows I was bummed to miss:
 [extra categories]
 
 Other random facts/stats:
-This month was my first time at [x] of the $unique_venues_count venues I went to.
+This month was my first time at $new_venues_count of the $unique_venues_count venues I went to.
 This month was my first time seeing $new_bands_count of the $unique_bands_count bands I saw perform live.
 Avg shows per week for $year: $avg_shows_per_week
 Days/shows ratio so far for $year: $days_to_shows:1

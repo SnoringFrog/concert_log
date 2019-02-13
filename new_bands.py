@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import sys
 
-log_file = open("./"+sys.argv[0]+".log", 'w')
+log_file = open("./"+sys.argv[0]+"-"+sys.argv[3]+".log", 'w')
 prev_list = sys.argv[1].split(', ') # bands seen in previous months
 cur_list = sys.argv[2].split(', ') # bands seen this month
 
