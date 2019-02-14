@@ -1,3 +1,4 @@
+Wed, Feb 13, 2019  6:14:50 PM
       1 (neverAM)
       1 (SP)LIT
       1 [Riffhouse Open Mic 9/19/18 artist 1]
@@ -121,6 +122,7 @@
       1 Basilica
       1 Bastille
       1 BATO
+      1 Bear Hands
       1 Bearings
       1 Beartooth
       1 Beatnik Sound
@@ -194,6 +196,7 @@
       1 Brian Schultz
       1 Brian Sewell
       1 Brightwork
+      1 Bring Me the Horizon
       1 Bring Me The Horizon
       1 Britt Nicole
       1 Broadmoor
@@ -215,6 +218,7 @@
       1 Buzzherd
       1 By the Tree
       1 Caleb Hacker
+      1 calebfolks.
       1 Call to Preserve
       1 Calling Down Fire
       1 Calliope
@@ -345,6 +349,7 @@
       1 Decennary
       1 Decide by Friday
       1 Decoys
+      1 Deep Rest
       1 Deer Eat Birds
       1 Deez Nuts
       1 Defeater
@@ -449,6 +454,7 @@
       1 Fear of Music
       1 Feenixpawl
       1 Fero Lux
+      1 Fever 333
       1 FFH
       1 Filthy Animals
       1 Fire and Ice
@@ -612,7 +618,6 @@
       1 Injun Joe
       1 Inner Alchemy
       1 Invoking the Abstract
-      1 Irae
       1 Iron and Wine
       1 Iron Maiden
       1 Isaac Gill
@@ -671,6 +676,7 @@
       1 King Nine
       1 Kingdom Of Giants
       1 Kishi Bashi
+      1 Knife Spitter
       1 Knox Hamilton
       1 Korn
       1 Kriminals
@@ -1001,6 +1007,7 @@
       1 Set to Stun
       1 Seth Stainback
       1 Shallow Talent
+      1 Shame Spiral
       1 Shanty Grass
       1 Sheldon Cole
       1 Sherri Linn
@@ -1050,6 +1057,7 @@
       1 Somos
       1 Sonata Arctica
       1 SONS
+      1 Soren
       1 South Hill Banks
       1 Southpaw
       1 Souvenirs
@@ -1090,7 +1098,6 @@
       1 Substance
       1 Such Gold
       1 Sudden Suspension
-      1 Suffer Through
       1 Sugar Lips
       1 Suicidal Tendencies
       1 Sum 41
@@ -1253,7 +1260,6 @@
       1 Traitors
       1 Trampled By Turtles
       1 Trapt
-      1 Travelers
       1 Travis Bryant
       1 Treble Lifter
       1 Tripnotic
@@ -1309,6 +1315,7 @@
       1 Von Strantz
       1 Wage War
       1 Wailin Storms
+      1 Walk the Moon
       1 Waltz
       1 Wanderer
       1 War Pugs
@@ -1476,6 +1483,7 @@
       2 In Your Memory
       2 Incited
       2 Invoke
+      2 Irae
       2 James Deering
       2 Jane Marczewski
       2 Jimmy Rigg
@@ -1562,6 +1570,7 @@
       2 Steal the Prize
       2 Strawberry Girls
       2 Such Great Heights
+      2 Suffer Through
       2 Suicide Season
       2 Sumerlin
       2 Summerbruise
@@ -1590,11 +1599,11 @@
       2 The Word Alive
       2 The World/Inferno Friendship Society
       2 The Worshiper
-      2 Thrice
       2 Throne of Botis
       2 To Serve Man
       2 TobyMac
       2 Township
+      2 Travelers
       2 Unit 28
       2 Veil of Maya
       2 Vein
@@ -1611,7 +1620,6 @@
       3 As Cities Burn
       3 As Hell Retreats
       3 Ashes
-      3 August Burns Red
       3 Autopsy Affair
       3 Bar Parents
       3 Bare the Traveler
@@ -1697,11 +1705,11 @@
       3 The Wonder Years
       3 The World Is A Beautiful Place and I Am No Longer Afraid To Die
       3 This Wild Life
+      3 Thrice
       3 Through Life In Mono
       3 Tigerwine
       3 Time Nothing
       3 Touche Amore
-      3 Underoath
       3 Unicron
       3 Until the Wind Shifts
       3 Until We Are Ghosts
@@ -1714,6 +1722,7 @@
       4 Andrew Warner
       4 Ann Perkins
       4 Atlas Rhoads
+      4 August Burns Red
       4 Blood of the Martyrs
       4 Born of Osiris
       4 BoughtXBlood
@@ -1722,7 +1731,6 @@
       4 Darlington
       4 Decyfer Down
       4 Dogwood and Holly
-      4 Emery
       4 Formerly Bodies
       4 Genosha
       4 Have Mercy
@@ -1731,7 +1739,6 @@
       4 Icarus
       4 Joel Kaiser
       4 Mediator
-      4 Mirador
       4 Murder
       4 My Epic
       4 My Heart My Anchor
@@ -1751,6 +1758,7 @@
       4 TLVS
       4 Toxic Moxie
       4 Turnover
+      4 Underoath
       4 Vilified
       4 Warwick
       4 Wesley Montgomery
@@ -1765,6 +1773,7 @@
       5 Crooked Forest
       5 Drop the Girl
       5 Dylan Vestal
+      5 Emery
       5 Find Me Alive
       5 Generator
       5 Gideon
@@ -1773,6 +1782,7 @@
       5 Idle Threat
       5 L.A. Dies
       5 Learner
+      5 Mirador
       5 Native Spirit
       5 Never I
       5 NewSong
@@ -1818,7 +1828,6 @@
       7 Bombadil
       7 Catalyst
       7 Dogs Eyes
-      7 Every King and Commoner
       7 I Ohms
       7 Live For What Lasts
       7 Must Be The Holy Ghost
@@ -1834,6 +1843,7 @@
       8 Beggar's Row
       8 DENS
       8 Dwell
+      8 Every King and Commoner
       8 Invaluable
       8 Mongrels
       8 This Withered Heart
