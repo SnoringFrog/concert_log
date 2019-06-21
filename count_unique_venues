@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-count=$(cut -d"|" -f 3 $1 | awk '!a[$0]++' | wc -l)
+count=$(cut -d"|" -f 2-3 $1 | awk '!a[$0]++' | wc -l) # need to use fields 2 and 3 to separate venues in diff cities with the same name (e.g., House of Blues)
 echo $count #wrapping in a variable first gets rid of wc's extra spaces

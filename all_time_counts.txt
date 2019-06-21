@@ -1,11 +1,11 @@
-Wed, Feb 13, 2019  6:14:50 PM
+Thu, Jun 13, 2019 10:42:10 AM
       1 (neverAM)
       1 (SP)LIT
-      1 [Riffhouse Open Mic 9/19/18 artist 1]
-      1 [Riffhouse Open Mic 9/19/18 artist 2]
-      1 [Riffhouse Open Mic 9/19/18 artist 3] 
-      1 [Riffhouse Open Mic 9/19/18 artist 4] 
-      1 [Riffhouse Open Mic 9/19/18 artist 5]
+      1 [RiffHouse Open Mic 9/19/18 artist 1]
+      1 [RiffHouse Open Mic 9/19/18 artist 2]
+      1 [RiffHouse Open Mic 9/19/18 artist 3] 
+      1 [RiffHouse Open Mic 9/19/18 artist 4] 
+      1 [RiffHouse Open Mic 9/19/18 artist 5]
       1 12 Stones
       1 1970s Film Stock
       1 36 Crazyfists
@@ -14,8 +14,6 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 6 String Drag
       1 6:22
       1 70x7
-      1 7th Hall
-      1 8 Inner Gates
       1 A Bullet For Pretty Boy
       1 A Collegiate Affair
       1 A Day To Remember
@@ -69,7 +67,9 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Amora's Bane
       1 Anamanaguchi
       1 Anarbor
+      1 Anays
       1 Andrew Bertrand
+      1 Andrew McMahon in the Wilderness
       1 Andross
       1 Angel Du$t
       1 Angelica Garcia
@@ -81,6 +81,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Applaud the Impaler
       1 Aquarium
       1 Archie Six-String and the Bad Dudes
+      1 Arkaza
       1 Arm the Witness
       1 Arms and Sleepers
       1 As It Is
@@ -101,6 +102,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Avers
       1 Aversions Crown
       1 Awake at Last
+      1 Awake At Last
       1 Awaken Cthulu
       1 Axis
       1 Axis Five
@@ -112,6 +114,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Bad Waitress
       1 Balance and Composure
       1 Ban Hatton
+      1 Bananaslama
       1 Bangladeafy
       1 Barabbas
       1 Barely March
@@ -122,6 +125,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Basilica
       1 Bastille
       1 BATO
+      1 Bear Ghost
       1 Bear Hands
       1 Bearings
       1 Beartooth
@@ -133,6 +137,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Before Him
       1 Beggars
       1 Behold the Depths
+      1 Bel Heir
       1 Belle Epoque
       1 Belle Haven
       1 Belle Noire
@@ -140,12 +145,12 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Belson
       1 Berries
       1 Better Homes
-      1 Better Off
       1 Betting on Benson?
       1 Between the Buried and Me
       1 Between the Trees
       1 Beware the Neverending
       1 Beyond Dishonor
+      1 Beyond the Grave
       1 Beyond the Throne
       1 Big D and the Kids Table
       1 Big Fifty
@@ -154,6 +159,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Bigwig
       1 Billy Neptune
       1 Bind
+      1 Birds in Row
       1 Birthright
       1 BJ Griffin and the Galaxy Groove
       1 Black Acid Ritual
@@ -186,6 +192,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Brain Drain
       1 Brandish
       1 Brasstracks
+      1 Bravely
       1 Bread of Stone
       1 Breaking Through
       1 Breaking Wheel
@@ -231,11 +238,12 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Captain the Sky
       1 Captive
       1 Car Cassette
+      1 Cardinal
       1 Carev Dvor
-      1 Caroline Rose
       1 Caroline Weinroth
       1 Carousel Kings
       1 Carry the Wounded
+      1 Casey
       1 Castors Hollow
       1 Cat Be Damned
       1 Catchyalater Cassanova
@@ -248,6 +256,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Chasen
       1 Chasing Avenir
       1 Cheap Trick
+      1 Cherokee Lann
       1 Cherry Pits
       1 Chief Scout
       1 Chipocrite
@@ -280,11 +289,9 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 COIN
       1 Cold Collective
       1 Cold Comfort
-      1 Colder Planets
       1 Colton Dixon
       1 Come Wind
       1 Committed to the Fall
-      1 Common Folk
       1 Common Kings
       1 Component 17
       1 Compulse
@@ -294,7 +301,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Constant Grind
       1 Constellations
       1 Cool City
-      1 Copeland
+      1 Cooper's Dreams
       1 Copilot
       1 Corpus Christi
       1 Cory Lanza
@@ -322,9 +329,8 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Culture Killer
       1 Currents-CT
       1 Curses
+      1 Cuzco
       1 Cyaegha
-      1 Cyber Twin
-      1 Dad Jokes
       1 Daddy Issues
       1 Dads
       1 Dane Page
@@ -333,8 +339,10 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Darkest Hour
       1 Datsik
       1 Dave Barnes
+      1 Dave Watkins
       1 David Bazan
       1 Dawes
+      1 Days to Break
       1 DCF
       1 Dead Bars
       1 Dead Eyes
@@ -343,6 +351,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Dear Adamus
       1 Dear Desolate
       1 Death Penalty
+      1 Death Valley Rally
       1 Deathcrown
       1 Deathhouse Blues
       1 Debris
@@ -356,7 +365,9 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Definition of One
       1 Denihilist
       1 Dennis Thorne
+      1 Dens
       1 Desolate
+      1 Detachment
       1 Devil Makes Three
       1 DevilDriver
       1 Dharma Bombs
@@ -370,6 +381,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Distinguisher
       1 Disturbed
       1 Diva Sweetly
+      1 Dive
       1 Division of Mind
       1 DJ Justin Aswell
       1 DJ NoFace
@@ -397,10 +409,10 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Dryjacket
       1 DSGNS
       1 Duke Stamina
-      1 Dumb Waiter
       1 Dumbwaiter
       1 Dumpster Hump
       1 Dysentery
+      1 Earth Groans
       1 Earthworm von Doom
       1 EastDear Park
       1 Echosmith
@@ -411,11 +423,14 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Eisley
       1 Elementals
       1 Elijah Myers
+      1 Elise Davis
       1 Ellie Goulding
       1 Emarosa
       1 Emily Lewin
       1 Eminence Ensemble
+      1 Empath
       1 Empty Hands
+      1 En Love
       1 Enamity
       1 End
       1 End It
@@ -460,12 +475,15 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Fire and Ice
       1 First Frontier
       1 Fit for an Autopsy
+      1 Fix Your Hearts
+      1 Fixity
       1 Flandrew Fleisenburg
       1 Fleet Foxes
       1 Flight of Salt
       1 Flips of Fury
       1 Floating Teeth
       1 Flogging Molly
+      1 Flor
       1 Flower
       1 Flowers for Faye?
       1 Flyleaf
@@ -479,15 +497,13 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Foster the People
       1 Foundation
       1 Fourth Son
-      1 Fox and the Bear
-      1 Foxwell
       1 Francesca Battistelli
       1 Franklin Massie
       1 Fred Karaum
+      1 Free Throw
       1 Frenship
       1 Froggy Fresh
       1 From Autumn to Ashes
-      1 From Indian Lakes
       1 From the Archives
       1 From Years Before
       1 Fucked Up
@@ -499,8 +515,8 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Garland
       1 Gaslight Anthem
       1 Gauna 491
-      1 Ghost Key
-      1 Ghost Servant
+      1 Gemini Love
+      1 George Adamson
       1 GI9
       1 Gift Giver
       1 Gillian Carter
@@ -530,13 +546,13 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Green Day
       1 Greensky Bluegrass
       1 Greyhaven
+      1 Grizfolk
       1 Groundless
       1 Group 1 Crew
       1 Grudgeholders
       1 Grum
       1 Guard My Ways
       1 Guerilla Warfare
-      1 Gull
       1 Gut Feeling
       1 Guttersnipe
       1 Gwen Stacy
@@ -571,13 +587,12 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Heliotrope
       1 Hello Atlantic
       1 Henhouse Prowlers
-      1 Hepburn
       1 Here After
       1 Heretic
       1 Heroes for Ghosts
       1 Hiding Out
       1 High Flight Society
-      1 Hippie Beatdown
+      1 Hold Close
       1 Holding Onto Hope
       1 Hollow//Bodies
       1 Holly Would
@@ -597,10 +612,10 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Hydra
       1 I Am They
       1 I Disappear
-      1 I Lead Leviathan
       1 I See Stars
       1 I Set My Friends On Fire
       1 I The Breather
+      1 I the Mighty
       1 I the Victor
       1 Ian Matthew Eppard
       1 Ice Nine Kills
@@ -617,6 +632,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Industry Standard
       1 Injun Joe
       1 Inner Alchemy
+      1 Invalids
       1 Invoking the Abstract
       1 Iron and Wine
       1 Iron Maiden
@@ -628,8 +644,8 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Jack the Radio
       1 Jackson May
       1 Jackyl
+      1 Jacob Goins
       1 Jameson Elder
-      1 Janelle Maree
       1 Janelle Marie
       1 JANKS
       1 Jason Ring
@@ -643,14 +659,16 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Jesus Piece
       1 Jimmy
       1 Jimmy Agrios
-      1 Joey Berkey
       1 Johanna Chastek
       1 John Waller
+      1 Jon Charles Dwyer
+      1 Jon Worthy and the Bends
       1 Jordan Lanzillotti
       1 Josh Crocker
       1 Josh Douglas
       1 Josh King
       1 Joshua and Janet Mills
+      1 Joshua Eadie and the Common Wealth
       1 Jucifer
       1 Judah and the Lion
       1 Judd Harris
@@ -670,12 +688,14 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Kevin Merrit & Kenny Delevante
       1 Key
       1 Keyoung
+      1 Khamsin
       1 Killgxxd
       1 Kimachi
       1 Kimber Rising
       1 King Nine
       1 Kingdom Of Giants
       1 Kishi Bashi
+      1 Kississippi
       1 Knife Spitter
       1 Knox Hamilton
       1 Korn
@@ -695,6 +715,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Landon Elliott and the Goods
       1 Last of a Dying Breed
       1 Laura Reed
+      1 Layers
       1 Lazerdisk
       1 Leaaves
       1 Lecrae
@@ -716,11 +737,14 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Little Doors
       1 Little Fury Things
       1 Little River Creek Police
+      1 Little Volcanoes
       1 Liv Slingerland
       1 Living Sacrifice
+      1 Lobby Boy
       1 Locker Room
       1 Logan and Jess
       1 Logan Carpenter
+      1 Lonestar
       1 Long Division
       1 Long Knife
       1 Lori Creek
@@ -741,6 +765,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Macerated
       1 Machinist!
       1 Maciahson
+      1 Mackenzie Roark
       1 Macro Crust
       1 Magnolia
       1 Make America Skate Again
@@ -754,9 +779,11 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Manic Focus
       1 Manzara
       1 Maplewaves
+      1 Marble Teeth
       1 Marc Rizzo
       1 Margo
       1 Marilyn Manson
+      1 Marshall Mulkey
       1 Martha Ann Motel
       1 Marvel Years
       1 Mason and Kyle
@@ -805,7 +832,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Mutilation Rites
       1 My Brother's Keeper
       1 My Flesh May Fail
-      1 My Heart To Fear
+      1 My Heart to Fear
       1 My Ticket Home
       1 MyChildren MyBride
       1 Mykal Allen
@@ -820,6 +847,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Nekrogoblikon
       1 Nesta
       1 Nevada Rose
+      1 New Dialogue
       1 New Politics
       1 New Spine
       1 New Years Day
@@ -844,6 +872,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Nothing
       1 Nova
       1 Nowadays
+      1 Nuclear Desolation
       1 Nuclear Honey
       1 Obscure Son
       1 OC45
@@ -859,8 +888,8 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Oh No Fiasco
       1 Oh the Humanity!
       1 Ohmme
-      1 Okilly Dokilly
       1 Old Rag
+      1 Old Wounds
       1 Olivia Dyer
       1 Olivia Somerlyn
       1 Olivia Spain
@@ -870,12 +899,12 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 On Solid Ground
       1 On the Cinder
       1 Opposition Bypass
-      1 Orlee
       1 Orphan
       1 Oryssa
       1 Ostraca
       1 Outbreak Xero
       1 Outsheep
+      1 Paezor
       1 Paid in Full
       1 Pain in the Yeahs
       1 Pain!
@@ -892,6 +921,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Paul Brunett
       1 Peaceful Ways of War
       1 Pegboard Nerds
+      1 Pen My Legacy
       1 People Like Trees
       1 Pet Name
       1 Pete Curry
@@ -904,14 +934,15 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Pocket Vinyl
       1 Point Blank
       1 Poison the Well
-      1 Polyphia
       1 Poncho Model
       1 Pool Kids
       1 Porstmouth
+      1 Post Sixty Five
       1 Power Hungry
       1 Power Trip
       1 Prayer Group
       1 Prince Daddy and the Hyena
+      1 Private I
       1 Progress
       1 Project 86
       1 Pronouns
@@ -926,20 +957,25 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Purge of Lillith
       1 Pyro Ohio
       1 Queen of Jeans
+      1 Quentin Sauve
       1 Rachel and the Jellycats
       1 Rachel Mann
       1 Rad Taco
       1 Radar Listening Party
       1 Railgun
       1 Raimee
+      1 Raleigh Lights
       1 Random Hero
       1 Random Holiday
       1 Rapid Change
+      1 Rarity
       1 Ras Attitude
+      1 Rathe
       1 Rayland Baxter
       1 Raymond Buckner
       1 R-Dent
       1 Reap and Sow
+      1 Rebekah Rafferty and the Wakes
       1 Rebel Drive
       1 Reckoner
       1 Reckoning Force
@@ -999,11 +1035,14 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Search Theory
       1 Second Death
       1 Second to Last
+      1 Seeking Solace
       1 Seige of Tyranny
       1 Self Destruct
       1 Separated
       1 Serpent Heart
+      1 Serpentshrine
       1 Set Apart
+      1 Set For Tomorrow
       1 Set to Stun
       1 Seth Stainback
       1 Shallow Talent
@@ -1013,6 +1052,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Sherri Linn
       1 Shiloh
       1 Short Leash
+      1 Shy Low
       1 Sianvar
       1 SICMAN
       1 Sienna Skies
@@ -1041,8 +1081,8 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Slithis
       1 Slowriter
       1 Small Brown Bike
-      1 Smallpools
       1 Smash Mouth
+      1 Smoke Signals
       1 Snails
       1 Snake Mountain Revival
       1 So Much Light
@@ -1069,11 +1109,12 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Speak Low If You Speak Love
       1 Spicy Boys
       1 Spider Mansion
-      1 Spirit Gun
       1 Spirits and the Melchizedek Children
       1 Spite
       1 Spittake
+      1 Splintercat
       1 Spoken
+      1 Spooky Cool
       1 Stars Hollow
       1 Stay In
       1 Steady Hands
@@ -1081,6 +1122,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Steasy Going
       1 Steel City Ruins
       1 Step Off
+      1 Stephanie
       1 Stereobloom
       1 Steve Bunting
       1 Steve On7y
@@ -1094,7 +1136,6 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Strong Water
       1 Strung Out
       1 STS9
-      1 Sub-Radio
       1 Substance
       1 Such Gold
       1 Sudden Suspension
@@ -1105,6 +1146,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Sunbears!
       1 Sundream
       1 Sunrizen
+      1 Sunshine Hysteria
       1 Superchick
       1 Surrounding Jericho
       1 Susto
@@ -1143,6 +1185,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 That 1 Guy
       1 The Acacia Strain
       1 The Aces
+      1 The Agony Scene
       1 The Almighty Rhombus
       1 The Almost
       1 The Altar
@@ -1180,6 +1223,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 The Gaffer Project
       1 The Ghost Inside
       1 The Ghost of Paul Revere
+      1 The Grease Monkeys
       1 The Great Commision
       1 The Grievance Club
       1 The Helper
@@ -1233,6 +1277,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 The You Go Girls
       1 Third Day
       1 Third Eye Blind
+      1 Thirsty Curses
       1 This City Called Earth
       1 This Town Needs Guns
       1 Thousand Below
@@ -1241,6 +1286,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Thundercloud Kid
       1 Thursday
       1 Thy Art Is Murder
+      1 Tides of Man
       1 TigerFist
       1 Tim Ernst
       1 Tin Can Sailor
@@ -1262,6 +1308,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Trapt
       1 Travis Bryant
       1 Treble Lifter
+      1 Trey Burnart Hall
       1 Tripnotic
       1 Trongone Band
       1 Trouvere
@@ -1295,19 +1342,23 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Urban Soil
       1 Uzi Kids
       1 Vagabon
-      1 Valleyheart
+      1 Vain//Void
       1 Valleys
       1 Vanilla Summit
       1 Vanna
       1 Vapor Rave
+      1 Varia
       1 VCTMS
       1 Vegan Llamas
+      1 Velvet Devils
       1 Venus Guytrap
       1 Vianjando
       1 Villains
       1 Villis
+      1 Violent Approach
       1 Violent Life Violent Death
       1 Virtual Riot
+      1 Vitamin K
       1 VO/ID
       1 Voids
       1 Voltage Divider
@@ -1323,6 +1374,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 Washed Up
       1 Water Within
       1 watermedown
+      1 Way Shape or Form
       1 We Are The City
       1 We Are The Finale
       1 We Came As Romans
@@ -1344,13 +1396,14 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 William Beckett
       1 William Wild
       1 Wilson
-      1 Wind Words
+      1 Winded
       1 WISH
       1 Withered Bones
       1 Within Temptation
       1 Within the Ruins
       1 Wkndr
       1 Woe is Me
+      1 worlds greatest dad
       1 Worst Case
       1 Worth Dying For
       1 Worthwhile
@@ -1361,6 +1414,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 xLookingForwardx
       1 Y!kes
       1 Yashira
+      1 Year of October
       1 Years Apart
       1 Years End
       1 Yellow Cavalier
@@ -1382,6 +1436,8 @@ Wed, Feb 13, 2019  6:14:50 PM
       1 惡AI意
       2 2x4
       2 '68
+      2 7th Hall
+      2 8 Inner Gates
       2 A Boy Named Sue
       2 A Clerestory
       2 A Time To Die
@@ -1405,6 +1461,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Belial
       2 Bennett Wales
       2 Bennett Wales and the Relief
+      2 Better Off
       2 Big Gigantic
       2 Big Jesus
       2 Bit Brigade
@@ -1412,22 +1469,28 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Black Matter Device
       2 Bobby Orr
       2 Broadside
+      2 Broke Royals
       2 Caleb Blair
       2 Capital Kings
       2 Capstan
+      2 Caroline Rose
       2 Caspian
       2 Centerfolds
       2 Chevelle
       2 Chris Sligh
       2 Chris Stone
+      2 Colder Planets
       2 Color Me Valiant
       2 Conveyer
+      2 Copeland
       2 Copper and Stars
       2 Counterparts
       2 Creations
       2 Crowder
       2 Crucial Rip
       2 Currents-NC
+      2 Cyber Twin
+      2 Dad Jokes
       2 Dance Gavin Dance
       2 Dangermuffin
       2 David Crowder Band
@@ -1442,6 +1505,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Divebomb
       2 Dover and the Elevators
       2 Down to Nothing
+      2 Dumb Waiter
       2 Dustin Furlow
       2 Endeavor
       2 Enforced
@@ -1449,7 +1513,6 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Eryn Noelle
       2 Every Day
       2 Everymen
-      2 Families
       2 Fire From The Gods
       2 Firecracker Jam
       2 Fireflight
@@ -1459,42 +1522,50 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Forest Green
       2 Foresterr
       2 Forlorn Strangers
+      2 Fox and the Bear
       2 Foxing
+      2 Foxwell
       2 Franni Rae Cash
       2 Friends With Monsters
       2 From Fragile Seeds
+      2 From Indian Lakes
       2 Fujian
       2 Future Primitive
       2 Gates
+      2 Ghost Key
       2 Ghost Noir
+      2 Ghost Servant
       2 Glenrose
       2 Good Charlotte
+      2 Gull
       2 Hail the Sun
       2 Harm
       2 Hawthorne Heights
       2 He Is Legend
+      2 Hepburn
       2 HerEcho
       2 Hexist
       2 High Priest
       2 High Water
+      2 Hippie Beatdown
       2 Hop Along
       2 House of Heroes
+      2 I Lead Leviathan
       2 Illucinate
       2 In Your Memory
       2 Incited
       2 Invoke
-      2 Irae
       2 James Deering
       2 Jane Marczewski
+      2 Janelle Maree
       2 Jimmy Rigg
+      2 Joey Berkey
       2 Jon Dwyer
       2 Jordan Coley
       2 Josiah Sargent
       2 Josie McQueen
       2 Joy Whitlock
-      2 Justin Cole
       2 Kaonashi
-      2 Karen Estrella
       2 Kevin Putnam
       2 Killswitch Engage
       2 Knocked Loose
@@ -1506,17 +1577,14 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Levi the Poet
       2 Lights
       2 Like Moths to Flames
-      2 Listener
       2 Lowboys
       2 M. B. Mulkey
       2 Mae
       2 Major League
       2 Mandisa
-      2 Many Rooms
       2 MercyMe
       2 Microwave
       2 Mike Frazier
-      2 Mike Frazier and the Dying Wild
       2 Mirrored Intentions
       2 Modern Baseball
       2 Monday through Friday
@@ -1531,7 +1599,9 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Nomadic
       2 Norelle Evans
       2 Norma Jean
+      2 Okilly Dokilly
       2 One Year Later
+      2 Orlee
       2 Our Blue Lights
       2 Outward Conversation
       2 Overgrown and Underground
@@ -1540,6 +1610,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Patheos
       2 Patient Zero
       2 Polyenso
+      2 Polyphia
       2 pulses
       2 Quinn Cicala
       2 Recluse Raccoon
@@ -1564,11 +1635,13 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 Since October
       2 Single Mothers
       2 Sledge
-      2 Sleep On It
       2 Sleeping with Sirens
+      2 Smallpools
+      2 Spirit Gun
       2 Starcoast
       2 Steal the Prize
       2 Strawberry Girls
+      2 Sub-Radio
       2 Such Great Heights
       2 Suffer Through
       2 Suicide Season
@@ -1593,7 +1666,6 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 The New Mutiny
       2 The Record Collection
       2 The Soil and the Sun
-      2 The Still Small Voice
       2 The Sun Kite
       2 The Unabombers
       2 The Word Alive
@@ -1603,8 +1675,8 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 To Serve Man
       2 TobyMac
       2 Township
-      2 Travelers
       2 Unit 28
+      2 Valleyheart
       2 Veil of Maya
       2 Vein
       2 Vicious Embrace
@@ -1612,6 +1684,7 @@ Wed, Feb 13, 2019  6:14:50 PM
       2 War Bonds
       2 War of Ages
       2 What We Do In Secret
+      2 Wind Words
       2 Wither
       2 X Ambassadors
       2 Year As a Ghost
@@ -1620,7 +1693,6 @@ Wed, Feb 13, 2019  6:14:50 PM
       3 As Cities Burn
       3 As Hell Retreats
       3 Ashes
-      3 Autopsy Affair
       3 Bar Parents
       3 Bare the Traveler
       3 Bonne Chere
@@ -1633,20 +1705,19 @@ Wed, Feb 13, 2019  6:14:50 PM
       3 Charmer
       3 Circa Survive
       3 Close Your Eyes
-      3 Colin Phils
       3 Colony House
+      3 Common Folk
       3 Dead and Dreaming
       3 Deathbreaker
       3 Defuzed
       3 Demons
       3 Disciple
-      3 Dogwood Tales
       3 Drug Church
       3 Eight Inner Gates
-      3 Elephant Jake
       3 ERRA
       3 Faded
       3 Fall of Goliath
+      3 Families
       3 Followship
       3 For Today
       3 Friends of Pedro
@@ -1657,10 +1728,13 @@ Wed, Feb 13, 2019  6:14:50 PM
       3 Hit the Lights
       3 Hotel Books
       3 i fight vampires
+      3 Irae
       3 Iselia
       3 Joshua Eadie
       3 Jupiter's Incense
       3 Just Standing
+      3 Justin Cole
+      3 Karen Estrella
       3 Kill the Mime
       3 KJ-52
       3 Kutless
@@ -1669,8 +1743,11 @@ Wed, Feb 13, 2019  6:14:50 PM
       3 Less Than Jake
       3 letlive
       3 Like Pacific
+      3 Listener
+      3 Many Rooms
       3 Matisyahu
       3 Mayday Parade
+      3 Mike Frazier and the Dying Wild
       3 Mirkwood
       3 Motives
       3 Namesake
@@ -1682,17 +1759,15 @@ Wed, Feb 13, 2019  6:14:50 PM
       3 Party Wave
       3 Pigeons Playing Ping Pong
       3 Pyotr
-      3 Qajaq
       3 Riviera
       3 Rosedale
       3 Rotten
       3 Seaway
-      3 Second to Safety
       3 Secrets
       3 Sent By Ravens
-      3 Servants
       3 Shadows
       3 Skies Over Bethany
+      3 Sleep On It
       3 Sleeping Giant
       3 Sleepwave
       3 Sun and Flesh
@@ -1701,21 +1776,20 @@ Wed, Feb 13, 2019  6:14:50 PM
       3 The Danger of Falling
       3 The Ongoing Concept
       3 The Red Jumpsuit Apparatus
+      3 The Still Small Voice
       3 The Weak Days
       3 The Wonder Years
       3 The World Is A Beautiful Place and I Am No Longer Afraid To Die
-      3 This Wild Life
       3 Thrice
       3 Through Life In Mono
       3 Tigerwine
-      3 Time Nothing
       3 Touche Amore
+      3 Travelers
       3 Unicron
       3 Until the Wind Shifts
       3 Until We Are Ghosts
       3 Varials
       3 Vatican
-      3 Weathered
       3 wolves&wolves&wolves&wolves
       4 Advent
       4 Amid the Roar
@@ -1723,16 +1797,17 @@ Wed, Feb 13, 2019  6:14:50 PM
       4 Ann Perkins
       4 Atlas Rhoads
       4 August Burns Red
+      4 Autopsy Affair
       4 Blood of the Martyrs
       4 Born of Osiris
       4 BoughtXBlood
       4 Chloe Wallace
+      4 Colin Phils
       4 Comeback Kid
-      4 Darlington
       4 Decyfer Down
       4 Dogwood and Holly
+      4 Elephant Jake
       4 Formerly Bodies
-      4 Genosha
       4 Have Mercy
       4 Having Keepsake
       4 Ian Randall Thornton
@@ -1740,27 +1815,30 @@ Wed, Feb 13, 2019  6:14:50 PM
       4 Joel Kaiser
       4 Mediator
       4 Murder
-      4 My Epic
       4 My Heart My Anchor
       4 Of Tyrants
       4 Pyrrhic Whim
+      4 Qajaq
       4 Red
       4 Rosemont
       4 Same Time Tomorrow
       4 Sam's the Hero
+      4 Servants
       4 Skillet
       4 Slaghead
       4 Sleave
       4 Take Heart
       4 The Burning Hearts
       4 theLionhearted
-      4 Tiny Moving Parts
+      4 This Wild Life
+      4 Time Nothing
       4 TLVS
       4 Toxic Moxie
       4 Turnover
       4 Underoath
       4 Vilified
       4 Warwick
+      4 Weathered
       4 Wesley Montgomery
       4 Wolves at the Gate
       5 ALNTN
@@ -1779,37 +1857,41 @@ Wed, Feb 13, 2019  6:14:50 PM
       5 Gideon
       5 Give Em Hell Kid
       5 Heavens Die
-      5 Idle Threat
       5 L.A. Dies
       5 Learner
       5 Mirador
+      5 My Epic
       5 Native Spirit
       5 Never I
       5 NewSong
       5 Real Friends
       5 Rose Milk
       5 RVNT
+      5 Second to Safety
       5 Set For Tomorrrow
       5 Silent Planet
       5 Stereo-Types
       5 Strengthen What Remains
       5 The Death In Me
       5 The Handsome Bandits
+      5 Tiny Moving Parts
       5 Tirades of a Timid Tongue
       5 Todd Agnew
       5 Vacation Manor
       5 White Petals
       5 Witness
       6 Christian Welch
+      6 Darlington
       6 Deathsinger
+      6 Dogwood Tales
       6 Downhaul
       6 Eight Days From December
       6 Ella Vader
-      6 Embracer
       6 Embracing Goodbye
       6 Four Year Strong
       6 From the Wild
-      6 Heavy Burdens
+      6 Genosha
+      6 Idle Threat
       6 Jake Ziegler and the Locals
       6 Joy
       6 Lloyd Harmon
@@ -1825,13 +1907,12 @@ Wed, Feb 13, 2019  6:14:50 PM
       6 Venomspitter
       6 Zach Ulmer
       7 Arson's Harbor
-      7 Bombadil
       7 Catalyst
       7 Dogs Eyes
+      7 Heavy Burdens
       7 I Ohms
       7 Live For What Lasts
       7 Must Be The Holy Ghost
-      7 Of Alessa
       7 Paper Trail
       7 Pianos Become the Teeth
       7 The Stillborn Poet
@@ -1841,30 +1922,33 @@ Wed, Feb 13, 2019  6:14:50 PM
       7 Two Cars
       7 yesman
       8 Beggar's Row
-      8 DENS
+      8 Bombadil
       8 Dwell
+      8 Embracer
       8 Every King and Commoner
       8 Invaluable
       8 Mongrels
+      8 Of Alessa
       8 This Withered Heart
+      9 DENS
       9 Mosquito Cabaret
-      9 Oh Sleeper
      10 Fin
      10 Hemingway
+     10 Oh Sleeper
      10 Quick On My Feet
      11 Pathway Home
      13 Household
-     14 Accident Prone
      14 The Separate
+     15 Accident Prone
      15 Born Hollow
-     16 Boxford
-     16 Inthewater
      16 Kept On Hold
-     18 Gaffer Project
+     17 Boxford
      18 The Obsolete Man
-     22 Kevin Schlereth
-     24 Comrades
-     24 Logan Vath
-     25 Eaves
-     28 Chris Bernstorf
-     29 The Last Bison
+     19 Gaffer Project
+     19 Inthewater
+     23 Kevin Schlereth
+     25 Logan Vath
+     29 Chris Bernstorf
+     29 Comrades
+     29 Eaves
+     32 The Last Bison

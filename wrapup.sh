@@ -3,6 +3,7 @@
 
 # Date related variables
 date=$(date -d "$1" +%m/%d/%y)
+if [ "$?" -ne 0 ]; then exit 1; fi
 day=$(date -d "$1" +%d)
 month=$(date -d "$1" +%m)
 year=$(date -d "$1" +%Y)
