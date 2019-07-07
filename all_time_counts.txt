@@ -1,4 +1,4 @@
-Thu, Jun 13, 2019 10:42:10 AM
+Sun, Jul  7, 2019  6:39:43 PM
       1 (neverAM)
       1 (SP)LIT
       1 [RiffHouse Open Mic 9/19/18 artist 1]
@@ -108,6 +108,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Axis Five
       1 AzurA
       1 Backstage Royalty
+      1 Backtrack
       1 Bad Korea
       1 Bad Luck
       1 Bad Off
@@ -188,6 +189,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Bottom of the Ninth
       1 Boy Named Banjo
       1 Boys of Fall
+      1 Bracewar
       1 Brackish Water Jamboree
       1 Brain Drain
       1 Brandish
@@ -252,6 +254,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Ceremony
       1 Cereus Bright
       1 Chaos Emblem
+      1 Charger Port
       1 Chase Atlantic
       1 Chasen
       1 Chasing Avenir
@@ -265,6 +268,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Chris Cobb
       1 Chris Mattingly
       1 Chris Oberholtzer
+      1 Chris Rice
       1 Christopher Lockett
       1 Chunk No Captain Chunk
       1 Church Tongue
@@ -290,6 +294,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Cold Collective
       1 Cold Comfort
       1 Colton Dixon
+      1 Combust
       1 Come Wind
       1 Committed to the Fall
       1 Common Kings
@@ -346,6 +351,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 DCF
       1 Dead Bars
       1 Dead Eyes
+      1 Dead Heat
       1 Deadland
       1 Deaf Poets
       1 Dear Adamus
@@ -627,6 +633,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 In Hearts Wake
       1 In Her Own Words
       1 In Search of Reason
+      1 In Visions
       1 Indecision
       1 InDirections
       1 Industry Standard
@@ -673,6 +680,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Judah and the Lion
       1 Judd Harris
       1 Jules Vasylenko
+      1 Justice Yeldham
       1 Kamala Lee
       1 Kameron Barton
       1 Kate Price
@@ -683,6 +691,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Keith Mathis
       1 Keith Poppin
       1 Kelsie McNair
+      1 Kept on Hold
       1 Kevin and Luk
       1 Kevin Devine
       1 Kevin Merrit & Kenny Delevante
@@ -789,6 +798,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Mason and Kyle
       1 Matchbox Twenty
       1 Matewan
+      1 Matt Burridge
       1 Matt Maher
       1 Matt Pless
       1 Mauve Angeles
@@ -800,7 +810,9 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Mental
       1 Mercer
       1 Mercy Screams
+      1 Mere Exposure Effect
       1 Meredith Rounsley
+      1 Micah Kimber
       1 Michael Coleman
       1 Michael W. Smith
       1 Midnight Ukelele Society
@@ -840,7 +852,6 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Nate Sacks and the LifeHacks
       1 Nate Sallie
       1 Nathan Hussey
-      1 Naysayer
       1 Near Northeast
       1 Neat Sweep
       1 Needle Points
@@ -910,6 +921,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Pain!
       1 Palm Springsteen
       1 Paper Tongues
+      1 Paradot
       1 Paris Jones
       1 Parlor Mob
       1 Past Hope
@@ -977,6 +989,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Reap and Sow
       1 Rebekah Rafferty and the Wakes
       1 Rebel Drive
+      1 Rebuker
       1 Reckoner
       1 Reckoning Force
       1 Red Death
@@ -1007,6 +1020,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Rotten Squad
       1 Rozwell Kid
       1 Rue
+      1 Rule Them All
       1 Run Kid Run
       1 Rush of Fools?
       1 Rushmore
@@ -1042,6 +1056,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Serpent Heart
       1 Serpentshrine
       1 Set Apart
+      1 Set for Tomorrow
       1 Set For Tomorrow
       1 Set to Stun
       1 Seth Stainback
@@ -1066,6 +1081,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 Singleside
       1 Sinn
       1 Sinners and Saints
+      1 Sinners to Saints
       1 Sir No Sir
       1 Skinny Lister
       1 Skyharbor
@@ -1200,7 +1216,6 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 The Bronzed Chorus
       1 The Burial
       1 The Cables
-      1 The Chariot
       1 The Citizen Train
       1 The Cohee
       1 The Color Morale
@@ -1290,7 +1305,6 @@ Thu, Jun 13, 2019 10:42:10 AM
       1 TigerFist
       1 Tim Ernst
       1 Tin Can Sailor
-      1 Tiny Shaking Fists
       1 Title Fight
       1 Together Soul
       1 Tom Szoch
@@ -1557,7 +1571,6 @@ Thu, Jun 13, 2019 10:42:10 AM
       2 Invoke
       2 James Deering
       2 Jane Marczewski
-      2 Janelle Maree
       2 Jimmy Rigg
       2 Joey Berkey
       2 Jon Dwyer
@@ -1593,6 +1606,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       2 Mountains and the Seas
       2 My Enemies and I
       2 My Son Bison
+      2 Naysayer
       2 Newsboys
       2 Nightwish
       2 No Zodiac
@@ -1658,6 +1672,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       2 The Blue Sky Disaster
       2 The Cazz
       2 The Cemetery Boys
+      2 The Chariot
       2 The Collection
       2 The Framers
       2 The Great Commission
@@ -1672,6 +1687,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       2 The World/Inferno Friendship Society
       2 The Worshiper
       2 Throne of Botis
+      2 Tiny Shaking Fists
       2 To Serve Man
       2 TobyMac
       2 Township
@@ -1730,6 +1746,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       3 i fight vampires
       3 Irae
       3 Iselia
+      3 Janelle Maree
       3 Joshua Eadie
       3 Jupiter's Incense
       3 Just Standing
@@ -1820,7 +1837,6 @@ Thu, Jun 13, 2019 10:42:10 AM
       4 Pyrrhic Whim
       4 Qajaq
       4 Red
-      4 Rosemont
       4 Same Time Tomorrow
       4 Sam's the Hero
       4 Servants
@@ -1866,6 +1882,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       5 NewSong
       5 Real Friends
       5 Rose Milk
+      5 Rosemont
       5 RVNT
       5 Second to Safety
       5 Set For Tomorrrow
@@ -1885,7 +1902,6 @@ Thu, Jun 13, 2019 10:42:10 AM
       6 Deathsinger
       6 Dogwood Tales
       6 Downhaul
-      6 Eight Days From December
       6 Ella Vader
       6 Embracing Goodbye
       6 Four Year Strong
@@ -1909,6 +1925,7 @@ Thu, Jun 13, 2019 10:42:10 AM
       7 Arson's Harbor
       7 Catalyst
       7 Dogs Eyes
+      7 Eight Days From December
       7 Heavy Burdens
       7 I Ohms
       7 Live For What Lasts
@@ -1948,7 +1965,7 @@ Thu, Jun 13, 2019 10:42:10 AM
      19 Inthewater
      23 Kevin Schlereth
      25 Logan Vath
-     29 Chris Bernstorf
      29 Comrades
      29 Eaves
+     30 Chris Bernstorf
      32 The Last Bison
