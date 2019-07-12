@@ -1,4 +1,4 @@
-Sun, Jul  7, 2019  6:39:43 PM
+Fri, Jul 12, 2019  4:46:46 PM
       1 (neverAM)
       1 (SP)LIT
       1 [RiffHouse Open Mic 9/19/18 artist 1]
@@ -11,6 +11,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 36 Crazyfists
       1 3OH!3
       1 3PM
+      1 430 Steps
       1 6 String Drag
       1 6:22
       1 70x7
@@ -64,6 +65,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Amaranthe
       1 American Hercules
       1 American Lions
+      1 Ammunation
       1 Amora's Bane
       1 Anamanaguchi
       1 Anarbor
@@ -232,6 +234,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Calling Down Fire
       1 Calliope
       1 Calm the Waters
+      1 Cancer Priest
       1 Candy
       1 Cane Hill
       1 Canker Blossom
@@ -286,6 +289,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Clary Sage
       1 Clay Finnesand
       1 Clever Girl
+      1 Close Quarters
       1 Close to Home
       1 Cloud Nothings
       1 Code Orange
@@ -431,7 +435,6 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Elijah Myers
       1 Elise Davis
       1 Ellie Goulding
-      1 Emarosa
       1 Emily Lewin
       1 Eminence Ensemble
       1 Empath
@@ -581,6 +584,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Hatebreed
       1 Hatefuck
       1 Haunters
+      1 Have Heart
       1 Havok
       1 Hawkboy
       1 Hayes Peebles
@@ -1058,6 +1062,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Set Apart
       1 Set for Tomorrow
       1 Set For Tomorrow
+      1 Set It Off
       1 Set to Stun
       1 Seth Stainback
       1 Shallow Talent
@@ -1066,6 +1071,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Sheldon Cole
       1 Sherri Linn
       1 Shiloh
+      1 Shipwreck
       1 Short Leash
       1 Shy Low
       1 Sianvar
@@ -1129,6 +1135,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Spite
       1 Spittake
       1 Splintercat
+      1 Split Wrist
       1 Spoken
       1 Spooky Cool
       1 Stars Hollow
@@ -1172,7 +1179,6 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Sykosis
       1 Sylar
       1 Symphony of the Goddesses
-      1 Symptoms
       1 Syneresis
       1 Table Talk
       1 Taddy Porter
@@ -1343,7 +1349,6 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Under Tribulation
       1 Underdog Champs
       1 Unifier
-      1 United Dumpster Empire
       1 Unity
       1 Unlike Pluto
       1 Unmaker
@@ -1369,6 +1374,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Vianjando
       1 Villains
       1 Villis
+      1 Violated Right
       1 Violent Approach
       1 Violent Life Violent Death
       1 Virtual Riot
@@ -1417,6 +1423,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       1 Within the Ruins
       1 Wkndr
       1 Woe is Me
+      1 World Below
       1 worlds greatest dad
       1 Worst Case
       1 Worth Dying For
@@ -1482,7 +1489,6 @@ Sun, Jul  7, 2019  6:39:43 PM
       2 Black Mask
       2 Black Matter Device
       2 Bobby Orr
-      2 Broadside
       2 Broke Royals
       2 Caleb Blair
       2 Capital Kings
@@ -1518,9 +1524,9 @@ Sun, Jul  7, 2019  6:39:43 PM
       2 Die Faster
       2 Divebomb
       2 Dover and the Elevators
-      2 Down to Nothing
       2 Dumb Waiter
       2 Dustin Furlow
+      2 Emarosa
       2 Endeavor
       2 Enforced
       2 Errant
@@ -1666,6 +1672,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       2 Super Whatevr
       2 Swear and Shake
       2 Switchfoot
+      2 Symptoms
       2 Taking Back Sunday
       2 Tegan and Sara
       2 Tenth Avenue North
@@ -1694,7 +1701,6 @@ Sun, Jul  7, 2019  6:39:43 PM
       2 Unit 28
       2 Valleyheart
       2 Veil of Maya
-      2 Vein
       2 Vicious Embrace
       2 Wandcarver
       2 War Bonds
@@ -1715,6 +1721,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       3 Breaking Benjamin
       3 Brettan Cox
       3 Bring the Arsenal
+      3 Broadside
       3 Can't Swim
       3 Capsize
       3 Chad Lowry
@@ -1728,6 +1735,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       3 Defuzed
       3 Demons
       3 Disciple
+      3 Down to Nothing
       3 Drug Church
       3 Eight Inner Gates
       3 ERRA
@@ -1744,7 +1752,6 @@ Sun, Jul  7, 2019  6:39:43 PM
       3 Hit the Lights
       3 Hotel Books
       3 i fight vampires
-      3 Irae
       3 Iselia
       3 Janelle Maree
       3 Joshua Eadie
@@ -1803,10 +1810,12 @@ Sun, Jul  7, 2019  6:39:43 PM
       3 Touche Amore
       3 Travelers
       3 Unicron
+      3 United Dumpster Empire
       3 Until the Wind Shifts
       3 Until We Are Ghosts
       3 Varials
       3 Vatican
+      3 Vein
       3 wolves&wolves&wolves&wolves
       4 Advent
       4 Amid the Roar
@@ -1829,6 +1838,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       4 Having Keepsake
       4 Ian Randall Thornton
       4 Icarus
+      4 Irae
       4 Joel Kaiser
       4 Mediator
       4 Murder
@@ -1857,7 +1867,6 @@ Sun, Jul  7, 2019  6:39:43 PM
       4 Weathered
       4 Wesley Montgomery
       4 Wolves at the Gate
-      5 ALNTN
       5 Big Something
       5 Bloom
       5 Born Sick
@@ -1897,6 +1906,7 @@ Sun, Jul  7, 2019  6:39:43 PM
       5 Vacation Manor
       5 White Petals
       5 Witness
+      6 ALNTN
       6 Christian Welch
       6 Darlington
       6 Deathsinger
