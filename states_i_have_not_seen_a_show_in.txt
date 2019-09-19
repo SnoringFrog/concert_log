@@ -2,8 +2,6 @@ AK
 CO
 HI
 IA
-ID
-IL
 KS
 MN
 MO
@@ -11,9 +9,6 @@ MT
 ND
 NE
 NM
-OR
 SD
 UT
-WA
-WI
 WY

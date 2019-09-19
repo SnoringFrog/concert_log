@@ -48,7 +48,7 @@ echo -e "Show count: $shows_in_month\n"
 
 # List of shows, slightly cleaned up from my internal format
 echo -e "Shows (highlights tagged):"
-perl -F'\|' -lane 'print "$F[0] - $F[1] - $F[2]\n", substr($F[3], 0, -1),"\n"' $date_file
+perl -F'\|' -lane 'sub trim { my $s = shift; $s =~ s/^\s+|\s+$//g; return $s }; print "trim($F[0]) - trim($F[1]) - trim($F[2])\n", substr(trim($F[3]), 0, -1),"\n"' $date_file
 
 echo "New venues: $new_venues_count/$unique_venues_count"
 echo "New bands: $new_bands_count/$unique_bands_count"

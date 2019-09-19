@@ -33,6 +33,9 @@ incomplete
 Write a damn book about this:
 incomplete
 
+Fewest shows seen in a month (after Sept '14): 
+8 (2/2015, 9/2015, 3/2016, 9/2018, 12/2018, 3/2019, 5/2019, 7/2019)
+
 
 -- Records --
 
@@ -44,4 +47,4 @@ Shows in a month: 34 (May 2017)
 
 Shows in a year: 212 (2017)
 
-Consecutive days with a show:
+Consecutive days with a show: 24 (5/8/17 - 5/31/17, 32 shows)

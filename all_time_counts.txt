@@ -1,4 +1,4 @@
-Fri, Jul 12, 2019  4:46:46 PM
+Mon, Sep 16, 2019  2:14:16 AM
       1 (neverAM)
       1 (SP)LIT
       1 [RiffHouse Open Mic 9/19/18 artist 1]
@@ -22,6 +22,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 A Plea for Purging
       1 A Scent Like Wolves
       1 A Skylit Drive
+      1 A Year in New York
       1 Aaron Gillespie
       1 Abby Huston
       1 Abby Walker
@@ -56,13 +57,16 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Alison Krauss
       1 Alison Self
       1 Alive Like Me
+      1 All Get Out
       1 All My Circuits
       1 All Time Low
+      1 Allison Paige
       1 Almost People
       1 Alright Junior
       1 Alter Bridge
       1 Amara
       1 Amaranthe
+      1 American Arson
       1 American Hercules
       1 American Lions
       1 Ammunation
@@ -103,11 +107,10 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Average Times
       1 Avers
       1 Aversions Crown
-      1 Awake at Last
-      1 Awake At Last
       1 Awaken Cthulu
       1 Axis
       1 Axis Five
+      1 AZ
       1 AzurA
       1 Backstage Royalty
       1 Backtrack
@@ -173,6 +176,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Black Pages
       1 Black Plague
       1 Blind Guardian
+      1 Bloodbather
       1 Blue Heaven
       1 Blue Home
       1 Blue Man Group
@@ -207,8 +211,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Brian Schultz
       1 Brian Sewell
       1 Brightwork
-      1 Bring Me the Horizon
-      1 Bring Me The Horizon
       1 Britt Nicole
       1 Broadmoor
       1 Broccoli Samurai
@@ -256,6 +258,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Cedar Green
       1 Ceremony
       1 Cereus Bright
+      1 Chance McCoy
       1 Chaos Emblem
       1 Charger Port
       1 Chase Atlantic
@@ -265,10 +268,12 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Cherokee Lann
       1 Cherry Pits
       1 Chief Scout
+      1 Childish Gambino
       1 Chipocrite
       1 Chivalry's Not Dead
       1 Chris August
       1 Chris Cobb
+      1 Chris Farren
       1 Chris Mattingly
       1 Chris Oberholtzer
       1 Chris Rice
@@ -291,6 +296,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Clever Girl
       1 Close Quarters
       1 Close to Home
+      1 CloseQuarters
       1 Cloud Nothings
       1 Code Orange
       1 Cognitive
@@ -309,6 +315,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Conquer Divide
       1 Constant Grind
       1 Constellations
+      1 Convictions
       1 Cool City
       1 Cooper's Dreams
       1 Copilot
@@ -344,6 +351,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Dads
       1 Dane Page
       1 Daniel Heffington
+      1 Danyelle Speaks
       1 Dark Sermon
       1 Darkest Hour
       1 Datsik
@@ -355,6 +363,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 DCF
       1 Dead Bars
       1 Dead Eyes
+      1 Dead Friends
       1 Dead Heat
       1 Deadland
       1 Deaf Poets
@@ -373,9 +382,9 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Deez Nuts
       1 Defeater
       1 Definition of One
+      1 Delta Avenue
       1 Denihilist
       1 Dennis Thorne
-      1 Dens
       1 Desolate
       1 Detachment
       1 Devil Makes Three
@@ -404,7 +413,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Donovan Wolfington
       1 Dorfex Bros
       1 Dormiveglia
-      1 Double Ferrari
       1 Down In It
       1 Downhere
       1 Dr. Con
@@ -438,6 +446,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Emily Lewin
       1 Eminence Ensemble
       1 Empath
+      1 Empty
       1 Empty Hands
       1 En Love
       1 Enamity
@@ -474,6 +483,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Fallujah
       1 False Cape
       1 Family Force 5
+      1 Famous Last Words
       1 Farcry
       1 Fear of Music
       1 Feenixpawl
@@ -495,6 +505,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Flor
       1 Flower
       1 Flowers for Faye?
+      1 Flume
       1 Flyleaf
       1 Fool's Errand
       1 For I Desire Mercy
@@ -509,7 +520,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Francesca Battistelli
       1 Franklin Massie
       1 Fred Karaum
-      1 Free Throw
+      1 Freebase
       1 Frenship
       1 Froggy Fresh
       1 From Autumn to Ashes
@@ -543,6 +554,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Goodnight Texas
       1 Gordon Bradley
       1 Gouge Away
+      1 GR8FRT
       1 Graham Stone Music
       1 Grass Panther
       1 Grave Digger
@@ -588,6 +600,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Havok
       1 Hawkboy
       1 Hayes Peebles
+      1 Hayley Kiyoko
       1 Hazel
       1 HDY BOY
       1 Headlessmantis
@@ -602,6 +615,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Heroes for Ghosts
       1 Hiding Out
       1 High Flight Society
+      1 Hive
       1 Hold Close
       1 Holding Onto Hope
       1 Hollow//Bodies
@@ -615,6 +629,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Hot Reader
       1 Hot Rod Circuit
       1 House&Home
+      1 Hozier
       1 Hubble Bash
       1 Human Services
       1 Human Travesty
@@ -625,10 +640,10 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 I See Stars
       1 I Set My Friends On Fire
       1 I The Breather
-      1 I the Mighty
       1 I the Victor
       1 Ian Matthew Eppard
       1 Ice Nine Kills
+      1 Idiomz da Prophesayer
       1 Igmund Dreud
       1 Ilia
       1 Imaginary Sons
@@ -641,8 +656,10 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Indecision
       1 InDirections
       1 Industry Standard
+      1 Infinite Bliss
       1 Injun Joe
       1 Inner Alchemy
+      1 Interpol
       1 Invalids
       1 Invoking the Abstract
       1 Iron and Wine
@@ -672,7 +689,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Jimmy Agrios
       1 Johanna Chastek
       1 John Waller
-      1 Jon Charles Dwyer
       1 Jon Worthy and the Bends
       1 Jordan Lanzillotti
       1 Josh Crocker
@@ -695,7 +711,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Keith Mathis
       1 Keith Poppin
       1 Kelsie McNair
-      1 Kept on Hold
       1 Kevin and Luk
       1 Kevin Devine
       1 Kevin Merrit & Kenny Delevante
@@ -708,7 +723,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 King Nine
       1 Kingdom Of Giants
       1 Kishi Bashi
-      1 Kississippi
       1 Knife Spitter
       1 Knox Hamilton
       1 Korn
@@ -780,6 +794,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Maciahson
       1 Mackenzie Roark
       1 Macro Crust
+      1 Macseal
       1 Magnolia
       1 Make America Skate Again
       1 MakeWar
@@ -858,17 +873,17 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Nathan Hussey
       1 Near Northeast
       1 Neat Sweep
+      1 NEDY
       1 Needle Points
       1 Nekrogoblikon
       1 Nesta
-      1 Nevada Rose
       1 New Dialogue
       1 New Politics
       1 New Spine
       1 New Years Day
       1 New York Steve
       1 NH Philharmonic Orchestra
-      1 Nhibitions
+      1 Nic Causey
       1 Nick Robertson
       1 Nick Santino
       1 Nicole Dollaganger
@@ -972,7 +987,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Purgatory
       1 Purge of Lillith
       1 Pyro Ohio
-      1 Queen of Jeans
       1 Quentin Sauve
       1 Rachel and the Jellycats
       1 Rachel Mann
@@ -986,9 +1000,9 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Rapid Change
       1 Rarity
       1 Ras Attitude
+      1 Ratbox
       1 Rathe
       1 Rayland Baxter
-      1 Raymond Buckner
       1 R-Dent
       1 Reap and Sow
       1 Rebekah Rafferty and the Wakes
@@ -1024,6 +1038,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Rotten Squad
       1 Rozwell Kid
       1 Rue
+      1 Ruin by Design
       1 Rule Them All
       1 Run Kid Run
       1 Rush of Fools?
@@ -1060,8 +1075,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Serpent Heart
       1 Serpentshrine
       1 Set Apart
-      1 Set for Tomorrow
-      1 Set For Tomorrow
       1 Set It Off
       1 Set to Stun
       1 Seth Stainback
@@ -1073,6 +1086,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Shiloh
       1 Shipwreck
       1 Short Leash
+      1 Short Term
       1 Shy Low
       1 Sianvar
       1 SICMAN
@@ -1099,6 +1113,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Sleeper
       1 Sleeping Patterns
       1 Sleepwalkers
+      1 Sleepy Tyrant
       1 Slipknot
       1 Slithis
       1 Slowriter
@@ -1136,6 +1151,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Spittake
       1 Splintercat
       1 Split Wrist
+      1 Splitwrist
       1 Spoken
       1 Spooky Cool
       1 Stars Hollow
@@ -1159,6 +1175,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Strong Water
       1 Strung Out
       1 STS9
+      1 Stuck Backwards
       1 Substance
       1 Such Gold
       1 Sudden Suspension
@@ -1222,6 +1239,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 The Bronzed Chorus
       1 The Burial
       1 The Cables
+      1 The Chemical Brothers
       1 The Citizen Train
       1 The Cohee
       1 The Color Morale
@@ -1232,7 +1250,9 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 The Dead Rabbits
       1 The Deloreans
       1 The Demonstration
+      1 The Early November
       1 The Famine
+      1 The Fancy Pears
       1 The Fat Catz
       1 The Forest The Fire
       1 The FoxSmiths
@@ -1241,7 +1261,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 The Funeral Portrait
       1 The Fustics
       1 The Fuzz Band
-      1 The Gaffer Project
       1 The Ghost Inside
       1 The Ghost of Paul Revere
       1 The Grease Monkeys
@@ -1251,27 +1270,28 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 The Heydaze
       1 The Hunts
       1 The Jukebox Romantics
+      1 The Last Ten Seconds of Life
       1 The Lazy Dangers
       1 The LifeHacks
       1 The Listening
       1 The Long Mountain Band
       1 The Lopez
       1 The Love Language
+      1 The Lumineers
       1 The Mad Children
       1 The Maine
       1 The Mantras
       1 The Maplewaves
       1 The Mentors
+      1 The Menzingers
       1 The Moose
       1 The Morning Of
-      1 The Mostly Dead
       1 The Necessary
       1 The New Regime
       1 The New Respects
       1 The Old You
       1 The Orphan the Poet
       1 The Pretty Reckless
-      1 The Protomen
       1 The Raven Age
       1 The Real Enemies
       1 The Red Painting
@@ -1282,6 +1302,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 The Separate (missed them?)
       1 The Shack Band
       1 The Sheepdogs
+      1 The Sidekicks
       1 The Sleepover
       1 The Southern Belles
       1 The Spells
@@ -1309,6 +1330,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Thy Art Is Murder
       1 Tides of Man
       1 TigerFist
+      1 Tigers of Youth
       1 Tim Ernst
       1 Tin Can Sailor
       1 Title Fight
@@ -1339,6 +1361,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Turbo Mansion
       1 Turncoat
       1 Turnstile
+      1 TWRP
       1 Tyler Burke
       1 Tyler Ramsey
       1 Tyler Steven Key
@@ -1449,6 +1472,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       1 Your Memorial
       1 You're Jovian
       1 Youth Code
+      1 Youth Fountain
       1 Youth Hostel
       1 Yuth Forever
       1 Zakkr
@@ -1467,13 +1491,13 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 All The Trees and Little Me
       2 Alliteration
       2 Amessa
-      2 Anberlin
       2 Anchor the Airship
       2 Andy Mineo
       2 Ashley Wilda
       2 Attalus
       2 Author
       2 Averman
+      2 Awake At Last
       2 Backside Slappy
       2 Bad Omens
       2 Basement
@@ -1485,10 +1509,10 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Better Off
       2 Big Gigantic
       2 Big Jesus
-      2 Bit Brigade
       2 Black Mask
       2 Black Matter Device
       2 Bobby Orr
+      2 Bring Me The Horizon
       2 Broke Royals
       2 Caleb Blair
       2 Capital Kings
@@ -1499,7 +1523,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Chevelle
       2 Chris Sligh
       2 Chris Stone
-      2 Colder Planets
       2 Color Me Valiant
       2 Conveyer
       2 Copeland
@@ -1507,7 +1530,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Counterparts
       2 Creations
       2 Crowder
-      2 Crucial Rip
       2 Currents-NC
       2 Cyber Twin
       2 Dad Jokes
@@ -1523,6 +1545,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Demon Hunter
       2 Die Faster
       2 Divebomb
+      2 Double Ferrari
       2 Dover and the Elevators
       2 Dumb Waiter
       2 Dustin Furlow
@@ -1542,10 +1565,10 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Forest Green
       2 Foresterr
       2 Forlorn Strangers
-      2 Fox and the Bear
       2 Foxing
       2 Foxwell
       2 Franni Rae Cash
+      2 Free Throw
       2 Friends With Monsters
       2 From Fragile Seeds
       2 From Indian Lakes
@@ -1568,9 +1591,9 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 High Priest
       2 High Water
       2 Hippie Beatdown
-      2 Hop Along
       2 House of Heroes
       2 I Lead Leviathan
+      2 I the Mighty
       2 Illucinate
       2 In Your Memory
       2 Incited
@@ -1579,14 +1602,13 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Jane Marczewski
       2 Jimmy Rigg
       2 Joey Berkey
-      2 Jon Dwyer
       2 Jordan Coley
       2 Josiah Sargent
       2 Josie McQueen
       2 Joy Whitlock
-      2 Kaonashi
       2 Kevin Putnam
       2 Killswitch Engage
+      2 Kississippi
       2 Knocked Loose
       2 Knuckle Puck
       2 Kooper
@@ -1613,7 +1635,9 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 My Enemies and I
       2 My Son Bison
       2 Naysayer
+      2 Nevada Rose
       2 Newsboys
+      2 Nhibitions
       2 Nightwish
       2 No Zodiac
       2 Nomadic
@@ -1632,6 +1656,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Polyenso
       2 Polyphia
       2 pulses
+      2 Queen of Jeans
       2 Quinn Cicala
       2 Recluse Raccoon
       2 RescueMe
@@ -1640,11 +1665,11 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Rival Choir
       2 Roebuck
       2 Ruin
-      2 Rush of Fools
       2 Sabella
       2 Safe Bet
       2 Savage Hands
       2 Senses Fail
+      2 Set For Tomorrow
       2 Set to Sail
       2 Seven Lions
       2 Seventh Day Slumber
@@ -1685,7 +1710,9 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 The Great Commission
       2 The Honest Few
       2 The Letter Black
+      2 The Mostly Dead
       2 The New Mutiny
+      2 The Protomen
       2 The Record Collection
       2 The Soil and the Sun
       2 The Sun Kite
@@ -1712,11 +1739,12 @@ Fri, Jul 12, 2019  4:46:46 PM
       2 Year As a Ghost
       2 Ytterbium
       2 Zao
-      3 As Cities Burn
+      3 Anberlin
       3 As Hell Retreats
       3 Ashes
       3 Bar Parents
       3 Bare the Traveler
+      3 Bit Brigade
       3 Bonne Chere
       3 Breaking Benjamin
       3 Brettan Cox
@@ -1728,8 +1756,10 @@ Fri, Jul 12, 2019  4:46:46 PM
       3 Charmer
       3 Circa Survive
       3 Close Your Eyes
+      3 Colder Planets
       3 Colony House
       3 Common Folk
+      3 Crucial Rip
       3 Dead and Dreaming
       3 Deathbreaker
       3 Defuzed
@@ -1744,20 +1774,23 @@ Fri, Jul 12, 2019  4:46:46 PM
       3 Families
       3 Followship
       3 For Today
+      3 Fox and the Bear
       3 Friends of Pedro
       3 Furnace Creek
       3 Hackensaw Boys
       3 Haley Greene
       3 Harm's Way
       3 Hit the Lights
+      3 Hop Along
       3 Hotel Books
-      3 i fight vampires
       3 Iselia
       3 Janelle Maree
+      3 Jon Charles Dwyer
       3 Joshua Eadie
       3 Jupiter's Incense
       3 Just Standing
       3 Justin Cole
+      3 Kaonashi
       3 Karen Estrella
       3 Kill the Mime
       3 KJ-52
@@ -1768,7 +1801,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       3 letlive
       3 Like Pacific
       3 Listener
-      3 Many Rooms
       3 Matisyahu
       3 Mayday Parade
       3 Mike Frazier and the Dying Wild
@@ -1778,7 +1810,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       3 Neck Deep
       3 Neulore
       3 Next to Nothing
-      3 O House of Jacob
       3 Paperback
       3 Party Wave
       3 Pigeons Playing Ping Pong
@@ -1786,6 +1817,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       3 Riviera
       3 Rosedale
       3 Rotten
+      3 Rush of Fools
       3 Seaway
       3 Secrets
       3 Sent By Ravens
@@ -1821,6 +1853,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       4 Amid the Roar
       4 Andrew Warner
       4 Ann Perkins
+      4 As Cities Burn
       4 Atlas Rhoads
       4 August Burns Red
       4 Autopsy Affair
@@ -1834,15 +1867,16 @@ Fri, Jul 12, 2019  4:46:46 PM
       4 Dogwood and Holly
       4 Elephant Jake
       4 Formerly Bodies
-      4 Have Mercy
-      4 Having Keepsake
+      4 i fight vampires
       4 Ian Randall Thornton
       4 Icarus
       4 Irae
       4 Joel Kaiser
+      4 Many Rooms
       4 Mediator
       4 Murder
       4 My Heart My Anchor
+      4 O House of Jacob
       4 Of Tyrants
       4 Pyrrhic Whim
       4 Qajaq
@@ -1865,7 +1899,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       4 Vilified
       4 Warwick
       4 Weathered
-      4 Wesley Montgomery
       4 Wolves at the Gate
       5 Big Something
       5 Bloom
@@ -1881,6 +1914,8 @@ Fri, Jul 12, 2019  4:46:46 PM
       5 Generator
       5 Gideon
       5 Give Em Hell Kid
+      5 Have Mercy
+      5 Having Keepsake
       5 Heavens Die
       5 L.A. Dies
       5 Learner
@@ -1893,7 +1928,6 @@ Fri, Jul 12, 2019  4:46:46 PM
       5 Rose Milk
       5 Rosemont
       5 RVNT
-      5 Second to Safety
       5 Set For Tomorrrow
       5 Silent Planet
       5 Stereo-Types
@@ -1904,6 +1938,7 @@ Fri, Jul 12, 2019  4:46:46 PM
       5 Tirades of a Timid Tongue
       5 Todd Agnew
       5 Vacation Manor
+      5 Wesley Montgomery
       5 White Petals
       5 Witness
       6 ALNTN
@@ -1924,8 +1959,8 @@ Fri, Jul 12, 2019  4:46:46 PM
       6 mewithoutYou
       6 Movements
       6 Poured Out
-      6 Ray Buckner
       6 Rowan
+      6 Second to Safety
       6 Someone Just Like You
       6 Sunndrug
       6 The Devil Wears Prada
@@ -1940,42 +1975,43 @@ Fri, Jul 12, 2019  4:46:46 PM
       7 I Ohms
       7 Live For What Lasts
       7 Must Be The Holy Ghost
-      7 Paper Trail
       7 Pianos Become the Teeth
+      7 Ray Buckner
       7 The Stillborn Poet
       7 The Story So Far
       7 Threads
       7 To Speak of Wolves
       7 Two Cars
       7 yesman
-      8 Beggar's Row
       8 Bombadil
       8 Dwell
-      8 Embracer
       8 Every King and Commoner
       8 Invaluable
       8 Mongrels
       8 Of Alessa
+      8 Paper Trail
       8 This Withered Heart
-      9 DENS
+      9 Beggar's Row
+      9 Embracer
       9 Mosquito Cabaret
      10 Fin
      10 Hemingway
-     10 Oh Sleeper
      10 Quick On My Feet
+     11 Oh Sleeper
      11 Pathway Home
+     12 DENS
      13 Household
      14 The Separate
      15 Accident Prone
      15 Born Hollow
-     16 Kept On Hold
      17 Boxford
+     17 Kept On Hold
      18 The Obsolete Man
-     19 Gaffer Project
-     19 Inthewater
+     20 Gaffer Project
+     20 Inthewater
      23 Kevin Schlereth
      25 Logan Vath
      29 Comrades
-     29 Eaves
      30 Chris Bernstorf
-     32 The Last Bison
+     31 Eaves
+     33 The Last Bison
