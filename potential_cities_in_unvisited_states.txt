@@ -1,0 +1,72 @@
+AK:
+-----
+CO:
+-----
+HI:
+-----
+IA:
+-----
+KS:
+	(East)
+	Kansas City
+-----
+MN:
+-----
+MT:
+	(West)
+	Helena
+
+	(Central)
+	Billings
+-----
+ND:
+	(West)
+	Watford City
+
+	(Central)
+	Bismark
+	Minot
+
+	(East)
+	Fargo
+-----
+NE:
+-----
+NM:
+	(Central)
+	Albuquerque
+	Sante Fe
+-----
+SD:
+	(West)
+	Rapid City
+	Sturgis
+
+	(East)
+	Aberdeen
+	Sioux Falls
+	Watertown
+-----
+UT:
+-----
+WY:
+	(Central)
+	Casper
+
+	(Southeast)
+	Cheyenne
+
+
+Trip ideas:
+	KS -> NE -> SD -> ND -> MN -> IA -> KS
+		19hrs drive, rides the east/west borders as much as possible
+
+	MT (-> ND -> MT)?
+		Spend a few days in Yellowstone
+		Knock out ND if something convenient enough can be found
+
+	AK
+
+	HI
+
+	CO -> WY -> UT (-> NM)? -> CO
