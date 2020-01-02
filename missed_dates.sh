@@ -2,8 +2,8 @@
 
 months=('Jan' 'Feb' 'Mar' 'Apr' 'May' 'Jun' 'Jul' 'Aug' 'Sep' 'Oct' 'Nov' 'Dec')
 days_in_months=(31 29 31 30 31 30 31 31 30 31 30 31)
-data_dir="${HOME}/git/concert_log/data"
-outfile="${HOME}/git/concert_log/missed_dates.txt"
+data_dir="${HOME}/personal/concert_log/data"
+outfile="${HOME}/personal/concert_log/missed_dates.txt"
 
 echo `date` > $outfile
 

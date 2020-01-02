@@ -17,6 +17,7 @@ date_files_since_sep14="$(seq -f"data/2014_%02g" 9 12) $(seq -f"data/%g*" 2015 $
 #Uses 8/29 so that an input date for the month I just finished will include that month as finished
 months_since_sep14=$(./months_between.py '08/29/14' "$date") 
 months_since_birth=$(./months_between.py '11/27/91' "$date")
+months_since_first_show=$(./months_between.py '07/16/02' "$date")
 
 unique_bands_count=$(./count_unique_bands $date_file)
 unique_venues_count=$(./count_unique_venues $date_file)
@@ -30,6 +31,7 @@ avg_shows_per_week=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_in_year $(date -d 
 days_to_shows=$(awk '{printf "%.2f", $1/$2}' <<< "$(date -d "$1" +%j) $shows_in_year")
 avg_shows_since_birth=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_since_birth $months_since_birth")
 avg_shows_since_sep14=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_since_sep14 $months_since_sep14")
+avg_shows_since_first_show=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_since_birth $months_since_first_show")
 
 # Counting new bands/venues:
 # the 10# converts from base-10 to base-10 to strip leading zeroes that made $(()) think I wanted octal
@@ -48,7 +50,9 @@ echo -e "Show count: $shows_in_month\n"
 
 # List of shows, slightly cleaned up from my internal format
 echo -e "Shows (highlights tagged):"
-perl -F'\|' -lane 'sub trim { my $s = shift; $s =~ s/^\s+|\s+$//g; return $s }; print "trim($F[0]) - trim($F[1]) - trim($F[2])\n", substr(trim($F[3]), 0, -1),"\n"' $date_file
+perl -F'\|' -lane 'sub trim { my $s = shift; $s =~ s/^\s+|\s+$//g; return $s }; print "${\trim($F[0])} - ${\trim($F[1])} - ${\trim($F[2])}\n${\substr(${\trim($F[3])}, 0, -1)}\n"' $date_file
+# Not sure why this old format stopped working
+#perl -F'\|' -lane 'sub trim { my $s = shift; $s =~ s/^\s+|\s+$//g; return $s }; print "trim($F[0]) - trim($F[1]) - trim($F[2])\n", substr(trim($F[3]), 0, -1),"\n"' $date_file
 
 echo "New venues: $new_venues_count/$unique_venues_count"
 echo "New bands: $new_bands_count/$unique_bands_count"
@@ -86,6 +90,7 @@ This month was my first time seeing $new_bands_count of the $unique_bands_count 
 Avg shows per week for $year: $avg_shows_per_week
 Days/shows ratio so far for $year: $days_to_shows:1
 Approximate avg shows per month since birth: $avg_shows_since_birth
+Avg shows per month since the first time I went to a show: $avg_shows_since_first_show
 Avg shows per month since Sept '14: $avg_shows_since_sep14
 
 Other months: https://www.facebook.com/espiekarski/notes?lst=100001385057628%3A1405230010%3A1484594066
