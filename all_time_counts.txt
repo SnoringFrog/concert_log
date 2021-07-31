@@ -1,5 +1,6 @@
-Mon, Sep 16, 2019  2:14:16 AM
+Sat, Jul 31, 2021  2:04:13 AM
       1 (neverAM)
+      1 (not sure which bands go with this one)The Cohee
       1 (SP)LIT
       1 [RiffHouse Open Mic 9/19/18 artist 1]
       1 [RiffHouse Open Mic 9/19/18 artist 2]
@@ -20,7 +21,6 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 A Day To Remember
       1 A Place to Bury Strangers
       1 A Plea for Purging
-      1 A Scent Like Wolves
       1 A Skylit Drive
       1 A Year in New York
       1 Aaron Gillespie
@@ -28,6 +28,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Abby Walker
       1 Abomination in Conflict With Mechanical Death
       1 Absence of Despair
+      1 Abuse of Power
       1 Acorns Are Yum
       1 Acredale
       1 Adalia
@@ -35,6 +36,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Adam Hanson
       1 Addison
       1 Additional Time
+      1 Adrenaline
       1 Adrian+Meridith
       1 Aeges
       1 Aether Realm
@@ -71,17 +73,19 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 American Lions
       1 Ammunation
       1 Amora's Bane
-      1 Anamanaguchi
       1 Anarbor
       1 Anays
       1 Andrew Bertrand
       1 Andrew McMahon in the Wilderness
       1 Andross
+      1 Aneirin
       1 Angel Du$t
       1 Angelica Garcia
       1 Animals as Leaders
       1 Ankle Grease
+      1 Anthony Rosano and the Conqueroos
       1 ANX
+      1 Anxious
       1 Aokigahara
       1 APEK
       1 Applaud the Impaler
@@ -89,13 +93,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Archie Six-String and the Bad Dudes
       1 Arkaza
       1 Arm the Witness
-      1 Arms and Sleepers
       1 As It Is
       1 Ascend the Hill
       1 Ascension
       1 Ashes of My Regrets
       1 Ashylus
       1 Associations
+      1 Asylum 13
       1 At Face Value
       1 At the Skylines
       1 Attack Art Hurt Art
@@ -116,11 +120,11 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Backtrack
       1 Bad Korea
       1 Bad Luck
+      1 Bad Naps
       1 Bad Off
       1 Bad Waitress
       1 Balance and Composure
       1 Ban Hatton
-      1 Bananaslama
       1 Bangladeafy
       1 Barabbas
       1 Barely March
@@ -128,8 +132,8 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Barons
       1 Barren Heir
       1 Barrier
-      1 Basilica
       1 Bastille
+      1 Baths
       1 BATO
       1 Bear Ghost
       1 Bear Hands
@@ -148,8 +152,8 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Belle Haven
       1 Belle Noire
       1 Belmont
-      1 Belson
-      1 Berries
+      1 Belson(maybe not this show)
+      1 Bent Knee
       1 Better Homes
       1 Betting on Benson?
       1 Between the Buried and Me
@@ -170,18 +174,23 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 BJ Griffin and the Galaxy Groove
       1 Black Acid Ritual
       1 Black Bike
+      1 Black Dirty
       1 Black Girls
       1 Black Liquid
       1 Black Market Special
       1 Black Pages
       1 Black Plague
       1 Blind Guardian
+      1 Blockhead
       1 Bloodbather
+      1 Bloodline
       1 Blue Heaven
       1 Blue Home
       1 Blue Man Group
+      1 Blue Oyster Cult
       1 Blues Traveler
       1 Blve Hills
+      1 Bob and Jeanne McDougal Zentz
       1 Bob Fleming
       1 Bob Zentz
       1 Bobby Bryson
@@ -196,7 +205,6 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Boy Named Banjo
       1 Boys of Fall
       1 Bracewar
-      1 Brackish Water Jamboree
       1 Brain Drain
       1 Brandish
       1 Brasstracks
@@ -214,6 +222,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Britt Nicole
       1 Broadmoor
       1 Broccoli Samurai
+      1 Brojob
       1 Broke
       1 Broken Beaches
       1 Broken Pews
@@ -230,18 +239,18 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 But You Can Call Me John
       1 Buzzherd
       1 By the Tree
+      1 CALEB
       1 Caleb Hacker
-      1 calebfolks.
       1 Call to Preserve
-      1 Calling Down Fire
+      1 Calling Out Closer
       1 Calliope
       1 Calm the Waters
       1 Cancer Priest
-      1 Candy
       1 Cane Hill
       1 Canker Blossom
       1 Capital Lights
       1 Capitol Offense
+      1 Captain Asshole
       1 Captain the Sky
       1 Captive
       1 Car Cassette
@@ -258,6 +267,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Cedar Green
       1 Ceremony
       1 Cereus Bright
+      1 Chamber
       1 Chance McCoy
       1 Chaos Emblem
       1 Charger Port
@@ -281,6 +291,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Chunk No Captain Chunk
       1 Church Tongue
       1 Churn
+      1 Circle Back
       1 Cities Aviv
       1 Citizen
       1 Citizen Train
@@ -294,9 +305,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Clary Sage
       1 Clay Finnesand
       1 Clever Girl
-      1 Close Quarters
       1 Close to Home
-      1 CloseQuarters
       1 Cloud Nothings
       1 Code Orange
       1 Cognitive
@@ -305,9 +314,11 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Cold Comfort
       1 Colton Dixon
       1 Combust
+      1 Come Clean
       1 Come Wind
       1 Committed to the Fall
       1 Common Kings
+      1 Community Witch
       1 Component 17
       1 Compulse
       1 Concrete
@@ -315,6 +326,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Conquer Divide
       1 Constant Grind
       1 Constellations
+      1 Contact
       1 Convictions
       1 Cool City
       1 Cooper's Dreams
@@ -343,6 +355,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Cult Territory
       1 Culture Abuse
       1 Culture Killer
+      1 Currents
       1 Currents-CT
       1 Curses
       1 Cuzco
@@ -359,10 +372,12 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Dave Watkins
       1 David Bazan
       1 Dawes
+      1 Day Aches
       1 Days to Break
       1 DCF
       1 Dead Bars
       1 Dead Eyes
+      1 Dead Format
       1 Dead Friends
       1 Dead Heat
       1 Deadland
@@ -385,13 +400,16 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Delta Avenue
       1 Denihilist
       1 Dennis Thorne
+      1 Dermot Kennedy
       1 Desolate
       1 Detachment
       1 Devil Makes Three
       1 DevilDriver
       1 Dharma Bombs
       1 Die Twice
+      1 Diet Blood
       1 Direct Hit!
+      1 Dirt Monkey
       1 Dirty Bird
       1 Disappears
       1 Discarded
@@ -413,7 +431,9 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Donovan Wolfington
       1 Dorfex Bros
       1 Dormiveglia
+      1 Double Grave
       1 Down In It
+      1 Down with Rent
       1 Downhere
       1 Dr. Con
       1 Dr. Dog
@@ -429,6 +449,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Duke Stamina
       1 Dumbwaiter
       1 Dumpster Hump
+      1 Dust City Opera
       1 Dysentery
       1 Earth Groans
       1 Earthworm von Doom
@@ -443,14 +464,12 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Elijah Myers
       1 Elise Davis
       1 Ellie Goulding
+      1 Eluveitie
       1 Emily Lewin
       1 Eminence Ensemble
-      1 Empath
-      1 Empty
       1 Empty Hands
       1 En Love
       1 Enamity
-      1 End
       1 End It
       1 End the Empire
       1 Endeavors
@@ -467,6 +486,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Every Time I Die
       1 Everyone Dies In The End
       1 Everyone Dies in Utah
+      1 Everyone Knows
       1 Evil Dead: The Musical
       1 Exiles
       1 Existential
@@ -479,7 +499,6 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Face Your Maker
       1 Failure Anthem
       1 Falling In Reverse
-      1 Fallout of Fear
       1 Fallujah
       1 False Cape
       1 Family Force 5
@@ -494,6 +513,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Fire and Ice
       1 First Frontier
       1 Fit for an Autopsy
+      1 Five Iron Frenzy
       1 Fix Your Hearts
       1 Fixity
       1 Flandrew Fleisenburg
@@ -502,7 +522,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Flips of Fury
       1 Floating Teeth
       1 Flogging Molly
-      1 Flor
+      1 Flood the Asylum
       1 Flower
       1 Flowers for Faye?
       1 Flume
@@ -514,12 +534,14 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Foreign Air
       1 Foreign Sons
       1 Foreign War
+      1 Forerunner
       1 Foster the People
       1 Foundation
       1 Fourth Son
       1 Francesca Battistelli
       1 Franklin Massie
       1 Fred Karaum
+      1 fredo disco
       1 Freebase
       1 Frenship
       1 Froggy Fresh
@@ -550,6 +572,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Gleemer
       1 Glitch Mob
       1 Goldfish
+      1 Gone In April
       1 Good Dog Nigel
       1 Goodnight Texas
       1 Gordon Bradley
@@ -559,14 +582,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Grass Panther
       1 Grave Digger
       1 Graveside Breakfast
-      1 Grayscale
+      1 Graveyard
       1 Great Health
       1 Great Peacock
       1 Greater Is He
       1 Greely Estates
       1 Green Day
       1 Greensky Bluegrass
-      1 Greyhaven
       1 Grizfolk
       1 Groundless
       1 Group 1 Crew
@@ -579,7 +601,6 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Gwen Stacy
       1 Halestorm
       1 Haley Green
-      1 Halfcast
       1 Hall and Oates
       1 Hallow
       1 Handguns
@@ -589,8 +610,10 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Hannah Grace
       1 Hard Knox Bluegrass Band
       1 Harmony Layne
+      1 Harmony Woods
       1 Harp and Lyre
       1 Harrison Kipner
+      1 Harry Gore
       1 Hashbrown Belly Boys
       1 Haste the Day
       1 Hatebreed
@@ -622,18 +645,22 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Holly Would
       1 Hollyn
       1 Hollywood Undead
+      1 Holy Fawn
+      1 Homesafe
       1 Honeysuckle
       1 Honor Code
       1 Horse Feathers
       1 Hot Basic
+      1 Hot Gumbo Brass Band
+      1 Hot Mulligan
       1 Hot Reader
       1 Hot Rod Circuit
-      1 House&Home
       1 Hozier
       1 Hubble Bash
       1 Human Services
       1 Human Travesty
       1 Hundredth
+      1 Hunt the Dinosaur
       1 Hydra
       1 I Am They
       1 I Disappear
@@ -644,7 +671,9 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Ian Matthew Eppard
       1 Ice Nine Kills
       1 Idiomz da Prophesayer
+      1 IdleMinds
       1 Igmund Dreud
+      1 il:lo
       1 Ilia
       1 Imaginary Sons
       1 Immoralist
@@ -661,6 +690,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Inner Alchemy
       1 Interpol
       1 Invalids
+      1 Invent Animate
       1 Invoking the Abstract
       1 Iron and Wine
       1 Iron Maiden
@@ -687,10 +717,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Jesus Piece
       1 Jimmy
       1 Jimmy Agrios
+      1 Joe Sampson
+      1 Joe's Truck Stop
       1 Johanna Chastek
       1 John Waller
       1 Jon Worthy and the Bends
       1 Jordan Lanzillotti
+      1 Jordy Searcy
       1 Josh Crocker
       1 Josh Douglas
       1 Josh King
@@ -700,13 +733,14 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Judah and the Lion
       1 Judd Harris
       1 Jules Vasylenko
+      1 Juniper
+      1 Jupiter Styles
       1 Justice Yeldham
       1 Kamala Lee
       1 Kameron Barton
+      1 Karen Estella
       1 Kate Price
-      1 Kayak Jones
       1 Keelan Donovan
-      1 Keely Burn
       1 Keilan Creech
       1 Keith Mathis
       1 Keith Poppin
@@ -726,6 +760,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Knife Spitter
       1 Knox Hamilton
       1 Korn
+      1 Korpiklaani
       1 Kriminals
       1 Krosis
       1 Krown Vic and the Plague
@@ -734,8 +769,6 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Kublai Khan
       1 Ky Rodgers
       1 L1V3LY
-      1 La Dispute
-      1 Ladada
       1 Ladybird
       1 Lance Bangs
       1 Landfill
@@ -745,9 +778,11 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Layers
       1 Lazerdisk
       1 Leaaves
+      1 Leach
       1 Lecrae
       1 Leeway
       1 Left Cross
+      1 Left to Suffer
       1 Letters to Jenny
       1 Lever of Archimedes
       1 Levi Hummon
@@ -758,9 +793,11 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Lifeblood
       1 Lifelike
       1 Like A Love Affair
+      1 Like Mike
       1 Limbs
       1 Lindsey Stirling
       1 Liotta
+      1 Liquid Stranger
       1 Little Doors
       1 Little Fury Things
       1 Little River Creek Police
@@ -786,6 +823,8 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Loyals
       1 Lucy In Battle Armor
       1 Luke Jones
+      1 Lurk
+      1 Luzcid
       1 Lypsis the Angel
       1 M83
       1 Mac Powell
@@ -806,7 +845,6 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Mangalista
       1 Manic Focus
       1 Manzara
-      1 Maplewaves
       1 Marble Teeth
       1 Marc Rizzo
       1 Margo
@@ -825,13 +863,14 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Mecca Mayo
       1 Megan Saunders
       1 Mellow Tone
+      1 Men I Trust
       1 Mending Fences
       1 Mental
+      1 Mephiskapheles
       1 Mercer
       1 Mercy Screams
       1 Mere Exposure Effect
       1 Meredith Rounsley
-      1 Micah Kimber
       1 Michael Coleman
       1 Michael W. Smith
       1 Midnight Ukelele Society
@@ -860,6 +899,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Mouth of the South
       1 Mt. Crushmore
       1 Murder Junkies
+      1 Mustard Plug
       1 Mutilation Rites
       1 My Brother's Keeper
       1 My Flesh May Fail
@@ -870,7 +910,9 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Narrow Hearts
       1 Nate Sacks and the LifeHacks
       1 Nate Sallie
+      1 Nathan Brewer
       1 Nathan Hussey
+      1 Nathaniel Riley
       1 Near Northeast
       1 Neat Sweep
       1 NEDY
@@ -878,6 +920,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Nekrogoblikon
       1 Nesta
       1 New Dialogue
+      1 New Lions
       1 New Politics
       1 New Spine
       1 New Years Day
@@ -889,21 +932,26 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Nicole Dollaganger
       1 NIFEFITE
       1 Night Idea
+      1 Night Traveler
       1 Night Verses
       1 Nihil
       1 Nine Fingered Thug
       1 Nine Lashes
-      1 Nine Line
       1 No Biggie
+      1 No/Mas
       1 Noah Gunderson
+      1 Nonfiction
+      1 North by North
       1 Northbound
       1 Northern Ghost
       1 Not Of It
       1 Nothing
       1 Nova
       1 Nowadays
-      1 Nuclear Desolation
+      1 Noxious
       1 Nuclear Honey
+      1 Nude Shoes
+      1 OakVale
       1 Obscure Son
       1 OC45
       1 Ocean Grove
@@ -918,9 +966,11 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Oh No Fiasco
       1 Oh the Humanity!
       1 Ohmme
+      1 Old Myrtle
       1 Old Rag
       1 Old Wounds
       1 Olivia Dyer
+      1 Olivia Haynes
       1 Olivia Somerlyn
       1 Olivia Spain
       1 Omni
@@ -928,12 +978,19 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 On Better Terms
       1 On Solid Ground
       1 On the Cinder
+      1 OnceDrowned
+      1 One Step Closer
+      1 Opeth
       1 Opposition Bypass
+      1 Organ Trail
       1 Orphan
       1 Oryssa
       1 Ostraca
+      1 Outatime!
       1 Outbreak Xero
       1 Outsheep
+      1 Outsider
+      1 Oxford Remedy
       1 Paezor
       1 Paid in Full
       1 Pain in the Yeahs
@@ -943,6 +1000,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Paradot
       1 Paris Jones
       1 Parlor Mob
+      1 Party Fridge
       1 Past Hope
       1 Path to Misery
       1 Pathogenesis
@@ -962,7 +1020,6 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Pkew Pkew Pkew
       1 Plea for Purging
       1 Pleasures
-      1 Pocket Vinyl
       1 Point Blank
       1 Poison the Well
       1 Poncho Model
@@ -983,11 +1040,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Pry
       1 Pudge
       1 Pummel
+      1 Pump Fake
       1 pureNRG
       1 Purgatory
       1 Purge of Lillith
       1 Pyro Ohio
       1 Quentin Sauve
+      1 Quiet Lion
       1 Rachel and the Jellycats
       1 Rachel Mann
       1 Rad Taco
@@ -1011,6 +1070,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Reckoner
       1 Reckoning Force
       1 Red Death
+      1 Red Weather
       1 Refocus
       1 Refuge
       1 Reggie and the Full Effect
@@ -1020,6 +1080,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Relapse
       1 Relient K
       1 Religious Experience
+      1 Renata Zeiguer
       1 Renounced
       1 repeat repeat
       1 Reptaliens
@@ -1027,15 +1088,19 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Revisionist
       1 Revive
       1 Rhetorik
+      1 Rhodora
       1 Rick Astley
       1 Rick Springfield
       1 Riley Little
       1 Rings of Saturn
       1 Rivers and Rust
       1 Roam
+      1 Roan Mountain Choir
       1 Robert Pierre
+      1 Rome Hero Foxes
       1 Rothschild
       1 Rotten Squad
+      1 Rotting Out
       1 Rozwell Kid
       1 Rue
       1 Ruin by Design
@@ -1044,6 +1109,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Rush of Fools?
       1 Rushmore
       1 Russ
+      1 Russ Lee
       1 Ryan Stevenson
       1 Sabaton
       1 Safe Word
@@ -1054,6 +1120,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Sam Holland
       1 Samuel Powers
       1 San Holo
+      1 Sanction
       1 Sandbox Scars
       1 Save Us From the Archon
       1 Saving Abel
@@ -1061,6 +1128,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 School of Rock Norfolk House Band
       1 Scotty and the Steiners
       1 Screaming by Me
+      1 Sea of Storms
       1 Seabird
       1 Seahaven
       1 Seamus Kennedy
@@ -1070,17 +1138,20 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Second to Last
       1 Seeking Solace
       1 Seige of Tyranny
+      1 Sekengard
       1 Self Destruct
       1 Separated
       1 Serpent Heart
       1 Serpentshrine
       1 Set Apart
+      1 Set for Tomorrow
       1 Set It Off
       1 Set to Stun
       1 Seth Stainback
       1 Shallow Talent
       1 Shame Spiral
       1 Shanty Grass
+      1 Shawn Hess
       1 Sheldon Cole
       1 Sherri Linn
       1 Shiloh
@@ -1089,11 +1160,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Short Term
       1 Shy Low
       1 Sianvar
+      1 Sick Semper
       1 SICMAN
       1 Sienna Skies
       1 Silence the Voice
       1 Silver Age
       1 Silver Snakes
+      1 Simon Brown
       1 Simple Obsession
       1 Simple Plan
       1 Sin
@@ -1103,8 +1176,10 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Sinners and Saints
       1 Sinners to Saints
       1 Sir No Sir
+      1 Skeletor and the Grey Skulls
       1 Skinny Lister
       1 Skyharbor
+      1 Skylar Spence
       1 Skyless
       1 Skyway Man
       1 Slaughter to Prevail
@@ -1127,6 +1202,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Sofi Tukker
       1 Softspoken
       1 Some Jaywalkers
+      1 Some Kind of Nightmare
       1 Some Say Ghosts
       1 Something Clever
       1 Somewhere to Call Home
@@ -1143,6 +1219,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Space Koi
       1 Sparks in Stereo
       1 Sparks the Rescue
+      1 Spatchcox
       1 Speak Low If You Speak Love
       1 Spicy Boys
       1 Spider Mansion
@@ -1150,11 +1227,10 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Spite
       1 Spittake
       1 Splintercat
-      1 Split Wrist
-      1 Splitwrist
       1 Spoken
       1 Spooky Cool
       1 Stars Hollow
+      1 Startcoast
       1 Stay In
       1 Steady Hands
       1 Steal the Last Bison
@@ -1165,10 +1241,11 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Stereobloom
       1 Steve Bunting
       1 Steve On7y
+      1 Stick To Your Guns
       1 Stoic
       1 Stone
       1 Stoop Kids
-      1 Stray from the Path
+      1 Straight to VHS
       1 Strayer
       1 STRFKR
       1 Strike Out Kid
@@ -1177,10 +1254,12 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 STS9
       1 Stuck Backwards
       1 Substance
+      1 Subtleties
       1 Such Gold
       1 Sudden Suspension
       1 Sugar Lips
       1 Suicidal Tendencies
+      1 Sully
       1 Sum 41
       1 Sun Parade
       1 Sunbears!
@@ -1195,6 +1274,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Swirlies
       1 Sykosis
       1 Sylar
+      1 SYML
       1 Symphony of the Goddesses
       1 Syneresis
       1 Table Talk
@@ -1211,6 +1291,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Tedashii
       1 Teen Death
       1 Teenage Wrist
+      1 Tel
       1 Ten After Two
       1 Ten Ton Hammer
       1 Ternion
@@ -1219,8 +1300,10 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Terrain
       1 Terror
       1 Terry DeSeta
+      1 Terry Thompson and the Bavarian Stompers
       1 Testament
       1 Tetrarch
+      1 Thank You Scientist
       1 That 1 Guy
       1 The Acacia Strain
       1 The Aces
@@ -1232,16 +1315,18 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 The Anatomy of Frank
       1 The Appleseed Cast
       1 The Attack
+      1 The Aurora Sound
       1 The Aviary
       1 The Barons
+      1 The Beasons
       1 The Bee's Knees
       1 The Birthday Massacre
       1 The Bronzed Chorus
+      1 The Brook and the Bluff
       1 The Burial
       1 The Cables
       1 The Chemical Brothers
       1 The Citizen Train
-      1 The Cohee
       1 The Color Morale
       1 The Contortionist
       1 The Convalescence
@@ -1250,6 +1335,8 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 The Dead Rabbits
       1 The Deloreans
       1 The Demonstration
+      1 The Donalds
+      1 The Downfall of Man
       1 The Early November
       1 The Famine
       1 The Fancy Pears
@@ -1265,13 +1352,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 The Ghost of Paul Revere
       1 The Grease Monkeys
       1 The Great Commision
+      1 The Great Noise
       1 The Grievance Club
       1 The Helper
       1 The Heydaze
       1 The Hunts
       1 The Jukebox Romantics
       1 The Last Ten Seconds of Life
-      1 The Lazy Dangers
       1 The LifeHacks
       1 The Listening
       1 The Long Mountain Band
@@ -1281,14 +1368,15 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 The Mad Children
       1 The Maine
       1 The Mantras
-      1 The Maplewaves
       1 The Mentors
       1 The Menzingers
+      1 The Mitras
       1 The Moose
       1 The Morning Of
       1 The Necessary
       1 The New Regime
       1 The New Respects
+      1 The Northern
       1 The Old You
       1 The Orphan the Poet
       1 The Pretty Reckless
@@ -1309,6 +1397,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 The States
       1 The Sugar Lips
       1 The Summer Set
+      1 The Tea Club
       1 The Thieving Hand
       1 The Trongone Band
       1 The Turning
@@ -1316,14 +1405,17 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 The Vespers
       1 The Wake Within
       1 The Wet Boys
+      1 The Woodpile
+      1 The World Inferno/Friendship Society
       1 The You Go Girls
       1 Third Day
       1 Third Eye Blind
+      1 Third Verse
       1 Thirsty Curses
       1 This City Called Earth
       1 This Town Needs Guns
-      1 Thousand Below
       1 Thousand Foot Krutch
+      1 Thre3
       1 Thunder Dreamer
       1 Thundercloud Kid
       1 Thursday
@@ -1333,6 +1425,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Tigers of Youth
       1 Tim Ernst
       1 Tin Can Sailor
+      1 Tina DeSeta
       1 Title Fight
       1 Together Soul
       1 Tom Szoch
@@ -1361,11 +1454,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Turbo Mansion
       1 Turncoat
       1 Turnstile
+      1 Twin Radio
       1 TWRP
       1 Tyler Burke
       1 Tyler Ramsey
       1 Tyler Steven Key
       1 Type Beat
+      1 Typecaste
       1 Ugly Flannel
       1 Uncured
       1 Under Paris
@@ -1386,6 +1481,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Vagabon
       1 Vain//Void
       1 Valleys
+      1 Vamachara
       1 Vanilla Summit
       1 Vanna
       1 Vapor Rave
@@ -1395,6 +1491,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Velvet Devils
       1 Venus Guytrap
       1 Vianjando
+      1 VICs
       1 Villains
       1 Villis
       1 Violated Right
@@ -1403,10 +1500,12 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Virtual Riot
       1 Vitamin K
       1 VO/ID
+      1 Vo-Bla
       1 Voids
       1 Voltage Divider
       1 Volumes
       1 Von Strantz
+      1 VRSTY
       1 Wage War
       1 Wailin Storms
       1 Walk the Moon
@@ -1415,11 +1514,11 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 War Pugs
       1 Wargirl
       1 Washed Up
-      1 Water Within
       1 watermedown
       1 Way Shape or Form
       1 We Are The City
       1 We Are The Finale
+      1 We Call This Courage
       1 We Came As Romans
       1 We The Kings
       1 Weak Wrists
@@ -1433,14 +1532,16 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 West Berlin
       1 Whiskey Diablo
       1 Whiskey Wells
+      1 Widow Rings
       1 Wild Hymns
       1 Wild Pink
+      1 Will Overman
       1 Will Wood
       1 William Beckett
       1 William Wild
       1 Wilson
       1 Winded
-      1 WISH
+      1 Winnekta Bowling League
       1 Withered Bones
       1 Within Temptation
       1 Within the Ruins
@@ -1453,15 +1554,19 @@ Mon, Sep 16, 2019  2:14:16 AM
       1 Worthwhile
       1 Woven in Hiatus
       1 Wrong Move
+      1 WSTR
+      1 Wylder
       1 Xandria
       1 Xenith
       1 xLookingForwardx
       1 Y!kes
       1 Yashira
       1 Year of October
+      1 Yearling
       1 Years Apart
       1 Years End
       1 Yellow Cavalier
+      1 Yesman
       1 Yonder Mountain String Band
       1 YoniWolf
       1 You Blew It
@@ -1485,36 +1590,44 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 8 Inner Gates
       2 A Boy Named Sue
       2 A Clerestory
+      2 A Scent Like Wolves
       2 A Time To Die
       2 After the Movies
       2 Alexa Rose
       2 All The Trees and Little Me
       2 Alliteration
       2 Amessa
+      2 Anamanaguchi
       2 Anchor the Airship
       2 Andy Mineo
-      2 Ashley Wilda
+      2 Arms and Sleepers
       2 Attalus
       2 Author
       2 Averman
       2 Awake At Last
       2 Backside Slappy
-      2 Bad Omens
+      2 Bananaslama
       2 Basement
+      2 Basilica
       2 Becoming the Archetype
       2 Being As An Ocean
       2 Belial
-      2 Bennett Wales
       2 Bennett Wales and the Relief
+      2 Berries
       2 Better Off
       2 Big Gigantic
       2 Big Jesus
       2 Black Mask
       2 Black Matter Device
       2 Bobby Orr
+      2 Brackish Water Jamboree
       2 Bring Me The Horizon
       2 Broke Royals
       2 Caleb Blair
+      2 Caleb Lail
+      2 calebfolks.
+      2 Calling Down Fire
+      2 Candy
       2 Capital Kings
       2 Capstan
       2 Caroline Rose
@@ -1527,11 +1640,9 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Conveyer
       2 Copeland
       2 Copper and Stars
-      2 Counterparts
       2 Creations
       2 Crowder
       2 Currents-NC
-      2 Cyber Twin
       2 Dad Jokes
       2 Dance Gavin Dance
       2 Dangermuffin
@@ -1542,7 +1653,6 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Dear Heart
       2 Delain
       2 Della Memoria
-      2 Demon Hunter
       2 Die Faster
       2 Divebomb
       2 Double Ferrari
@@ -1550,18 +1660,23 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Dumb Waiter
       2 Dustin Furlow
       2 Emarosa
+      2 Empath
+      2 Empty
+      2 End
       2 Endeavor
       2 Enforced
       2 Errant
       2 Eryn Noelle
       2 Every Day
       2 Everymen
+      2 Fallout of Fear
       2 Fire From The Gods
       2 Firecracker Jam
       2 Fireflight
       2 Fitzgerald
       2 Flame
       2 Flight Club
+      2 Flor
       2 Forest Green
       2 Foresterr
       2 Forlorn Strangers
@@ -1580,18 +1695,20 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Ghost Servant
       2 Glenrose
       2 Good Charlotte
+      2 Grayscale
+      2 Greyhaven
       2 Gull
       2 Hail the Sun
-      2 Harm
+      2 Halfcast
       2 Hawthorne Heights
       2 He Is Legend
-      2 Hepburn
       2 HerEcho
       2 Hexist
       2 High Priest
       2 High Water
-      2 Hippie Beatdown
       2 House of Heroes
+      2 House&Home
+      2 Humbird
       2 I Lead Leviathan
       2 I the Mighty
       2 Illucinate
@@ -1603,17 +1720,20 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Jimmy Rigg
       2 Joey Berkey
       2 Jordan Coley
-      2 Josiah Sargent
       2 Josie McQueen
       2 Joy Whitlock
+      2 Kayak Jones
+      2 Keely Burn
+      2 Keep Flying
       2 Kevin Putnam
       2 Killswitch Engage
       2 Kississippi
-      2 Knocked Loose
       2 Knuckle Puck
       2 Kooper
       2 Kurtzweil
       2 Kyle Cox
+      2 La Dispute
+      2 Ladada
       2 Lesser Men
       2 Levi the Poet
       2 Lights
@@ -1624,11 +1744,11 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Major League
       2 Mandisa
       2 MercyMe
-      2 Microwave
       2 Mike Frazier
       2 Mirrored Intentions
       2 Modern Baseball
       2 Monday through Friday
+      2 Monochromatic Black
       2 More to Monroe
       2 Motionless In White
       2 Mountains and the Seas
@@ -1637,12 +1757,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Naysayer
       2 Nevada Rose
       2 Newsboys
-      2 Nhibitions
       2 Nightwish
+      2 Nine Line
       2 No Zodiac
       2 Nomadic
       2 Norelle Evans
       2 Norma Jean
+      2 Nuclear Desolation
       2 Okilly Dokilly
       2 One Year Later
       2 Orlee
@@ -1653,6 +1774,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Passport
       2 Patheos
       2 Patient Zero
+      2 Pocket Vinyl
       2 Polyenso
       2 Polyphia
       2 pulses
@@ -1660,6 +1782,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Quinn Cicala
       2 Recluse Raccoon
       2 RescueMe
+      2 Respondents
       2 Riley Hamilton
       2 Rise Against
       2 Rival Choir
@@ -1668,6 +1791,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Sabella
       2 Safe Bet
       2 Savage Hands
+      2 SeeYouSpaceCowboy
       2 Senses Fail
       2 Set For Tomorrow
       2 Set to Sail
@@ -1682,10 +1806,13 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Sledge
       2 Sleeping with Sirens
       2 Smallpools
+      2 Sophia Hernandez
       2 Spirit Gun
+      2 Split Wrist
       2 Starcoast
       2 Steal the Prize
       2 Strawberry Girls
+      2 Stray from the Path
       2 Sub-Radio
       2 Such Great Heights
       2 Suffer Through
@@ -1709,6 +1836,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 The Framers
       2 The Great Commission
       2 The Honest Few
+      2 The Lazy Dangers
       2 The Letter Black
       2 The Mostly Dead
       2 The New Mutiny
@@ -1720,11 +1848,12 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 The Word Alive
       2 The World/Inferno Friendship Society
       2 The Worshiper
+      2 Thousand Below
       2 Throne of Botis
-      2 Tiny Shaking Fists
       2 To Serve Man
       2 TobyMac
       2 Township
+      2 Unbound
       2 Unit 28
       2 Valleyheart
       2 Veil of Maya
@@ -1732,68 +1861,75 @@ Mon, Sep 16, 2019  2:14:16 AM
       2 Wandcarver
       2 War Bonds
       2 War of Ages
+      2 Water Within
       2 What We Do In Secret
       2 Wind Words
+      2 WISH
       2 Wither
       2 X Ambassadors
       2 Year As a Ghost
+      2 Young Culture
       2 Ytterbium
       2 Zao
       3 Anberlin
       3 As Hell Retreats
       3 Ashes
+      3 Bad Omens
       3 Bar Parents
       3 Bare the Traveler
+      3 Bennett Wales
       3 Bit Brigade
       3 Bonne Chere
       3 Breaking Benjamin
       3 Brettan Cox
-      3 Bring the Arsenal
       3 Broadside
       3 Can't Swim
       3 Capsize
       3 Chad Lowry
       3 Charmer
       3 Circa Survive
+      3 Close Quarters
       3 Close Your Eyes
       3 Colder Planets
       3 Colony House
       3 Common Folk
+      3 Counterparts
       3 Crucial Rip
+      3 Cyber Twin
       3 Dead and Dreaming
       3 Deathbreaker
       3 Defuzed
-      3 Demons
+      3 Demon Hunter
       3 Disciple
       3 Down to Nothing
-      3 Drug Church
       3 Eight Inner Gates
       3 ERRA
       3 Faded
       3 Fall of Goliath
       3 Families
-      3 Followship
       3 For Today
-      3 Fox and the Bear
       3 Friends of Pedro
       3 Furnace Creek
       3 Hackensaw Boys
       3 Haley Greene
+      3 Harm
       3 Harm's Way
+      3 Hepburn
+      3 Hippie Beatdown
       3 Hit the Lights
       3 Hop Along
       3 Hotel Books
       3 Iselia
       3 Janelle Maree
       3 Jon Charles Dwyer
-      3 Joshua Eadie
+      3 Josiah Sargent
       3 Jupiter's Incense
       3 Just Standing
       3 Justin Cole
       3 Kaonashi
-      3 Karen Estrella
       3 Kill the Mime
       3 KJ-52
+      3 Knocked Loose
       3 Kutless
       3 Laura McElroy
       3 Left Behind
@@ -1803,6 +1939,8 @@ Mon, Sep 16, 2019  2:14:16 AM
       3 Listener
       3 Matisyahu
       3 Mayday Parade
+      3 Micah Kimber
+      3 Microwave
       3 Mike Frazier and the Dying Wild
       3 Mirkwood
       3 Motives
@@ -1810,6 +1948,7 @@ Mon, Sep 16, 2019  2:14:16 AM
       3 Neck Deep
       3 Neulore
       3 Next to Nothing
+      3 Nhibitions
       3 Paperback
       3 Party Wave
       3 Pigeons Playing Ping Pong
@@ -1830,22 +1969,20 @@ Mon, Sep 16, 2019  2:14:16 AM
       3 Texas in July
       3 The Chicken Boys
       3 The Danger of Falling
+      3 The Maplewaves
       3 The Ongoing Concept
       3 The Red Jumpsuit Apparatus
       3 The Still Small Voice
       3 The Weak Days
       3 The Wonder Years
-      3 The World Is A Beautiful Place and I Am No Longer Afraid To Die
-      3 Thrice
       3 Through Life In Mono
       3 Tigerwine
-      3 Touche Amore
+      3 Tiny Shaking Fists
       3 Travelers
       3 Unicron
       3 United Dumpster Empire
       3 Until the Wind Shifts
       3 Until We Are Ghosts
-      3 Varials
       3 Vatican
       3 Vein
       3 wolves&wolves&wolves&wolves
@@ -1854,28 +1991,31 @@ Mon, Sep 16, 2019  2:14:16 AM
       4 Andrew Warner
       4 Ann Perkins
       4 As Cities Burn
+      4 Asaph
+      4 Ashley Wilda
       4 Atlas Rhoads
       4 August Burns Red
       4 Autopsy Affair
       4 Blood of the Martyrs
       4 Born of Osiris
       4 BoughtXBlood
+      4 Bring the Arsenal
       4 Chloe Wallace
-      4 Colin Phils
-      4 Comeback Kid
       4 Decyfer Down
+      4 Demons
       4 Dogwood and Holly
-      4 Elephant Jake
+      4 Drug Church
+      4 Followship
       4 Formerly Bodies
-      4 i fight vampires
       4 Ian Randall Thornton
       4 Icarus
       4 Irae
       4 Joel Kaiser
+      4 Joshua Eadie
+      4 Karen Estrella
       4 Many Rooms
       4 Mediator
       4 Murder
-      4 My Heart My Anchor
       4 O House of Jacob
       4 Of Tyrants
       4 Pyrrhic Whim
@@ -1886,132 +2026,142 @@ Mon, Sep 16, 2019  2:14:16 AM
       4 Servants
       4 Skillet
       4 Slaghead
-      4 Sleave
       4 Take Heart
       4 The Burning Hearts
+      4 The World Is A Beautiful Place and I Am No Longer Afraid To Die
       4 theLionhearted
-      4 This Wild Life
-      4 Time Nothing
+      4 Thrice
       4 TLVS
-      4 Toxic Moxie
-      4 Turnover
+      4 Touche Amore
       4 Underoath
+      4 Varials
       4 Vilified
       4 Warwick
       4 Weathered
-      4 Wolves at the Gate
       5 Big Something
       5 Bloom
       5 Born Sick
       5 Broken Harmonics
       5 Carl Anderson
+      5 Colin Phils
+      5 Comeback Kid
       5 Countermeasures
       5 Crooked Forest
-      5 Drop the Girl
       5 Dylan Vestal
+      5 Elephant Jake
       5 Emery
-      5 Find Me Alive
+      5 Fox and the Bear
       5 Generator
       5 Gideon
       5 Give Em Hell Kid
-      5 Have Mercy
       5 Having Keepsake
       5 Heavens Die
-      5 L.A. Dies
       5 Learner
       5 Mirador
-      5 My Epic
+      5 My Heart My Anchor
       5 Native Spirit
       5 Never I
       5 NewSong
       5 Real Friends
       5 Rose Milk
-      5 Rosemont
       5 RVNT
       5 Set For Tomorrrow
-      5 Silent Planet
       5 Stereo-Types
       5 Strengthen What Remains
       5 The Death In Me
       5 The Handsome Bandits
+      5 This Wild Life
+      5 Time Nothing
       5 Tiny Moving Parts
       5 Tirades of a Timid Tongue
       5 Todd Agnew
-      5 Vacation Manor
+      5 Toxic Moxie
+      5 Turnover
       5 Wesley Montgomery
       5 White Petals
       5 Witness
-      6 ALNTN
+      5 Wolves at the Gate
       6 Christian Welch
-      6 Darlington
       6 Deathsinger
       6 Dogwood Tales
-      6 Downhaul
       6 Ella Vader
       6 Embracing Goodbye
+      6 Find Me Alive
       6 Four Year Strong
       6 From the Wild
-      6 Genosha
+      6 i fight vampires
       6 Idle Threat
       6 Jake Ziegler and the Locals
       6 Joy
+      6 L.A. Dies
       6 Lloyd Harmon
-      6 mewithoutYou
       6 Movements
       6 Poured Out
       6 Rowan
       6 Second to Safety
+      6 Silent Planet
+      6 Sleave
       6 Someone Just Like You
       6 Sunndrug
       6 The Devil Wears Prada
+      6 Vacation Manor
       6 Vagabonds
       6 Venomspitter
       6 Zach Ulmer
+      7 ALNTN
       7 Arson's Harbor
       7 Catalyst
+      7 Darlington
       7 Dogs Eyes
+      7 Drop the Girl
       7 Eight Days From December
+      7 Genosha
+      7 Have Mercy
       7 Heavy Burdens
       7 I Ohms
       7 Live For What Lasts
+      7 mewithoutYou
       7 Must Be The Holy Ghost
       7 Pianos Become the Teeth
       7 Ray Buckner
       7 The Stillborn Poet
       7 The Story So Far
       7 Threads
-      7 To Speak of Wolves
       7 Two Cars
-      7 yesman
       8 Bombadil
+      8 Downhaul
       8 Dwell
-      8 Every King and Commoner
       8 Invaluable
-      8 Mongrels
-      8 Of Alessa
+      8 My Epic
       8 Paper Trail
+      8 Rosemont
       8 This Withered Heart
+      8 To Speak of Wolves
       9 Beggar's Row
       9 Embracer
-      9 Mosquito Cabaret
+      9 Every King and Commoner
+      9 Mongrels
+      9 Of Alessa
      10 Fin
      10 Hemingway
      10 Quick On My Feet
-     11 Oh Sleeper
      11 Pathway Home
+     11 yesman
      12 DENS
+     12 Mosquito Cabaret
+     12 Oh Sleeper
      13 Household
      14 The Separate
      15 Accident Prone
      15 Born Hollow
-     17 Boxford
-     17 Kept On Hold
      18 The Obsolete Man
-     20 Gaffer Project
-     20 Inthewater
+     19 Boxford
+     19 Kept On Hold
+     21 Gaffer Project
+     22 Inthewater
      23 Kevin Schlereth
-     25 Logan Vath
-     29 Comrades
-     30 Chris Bernstorf
-     31 Eaves
-     33 The Last Bison
+     30 Comrades
+     30 Logan Vath
+     31 Chris Bernstorf
+     34 Eaves
+     36 The Last Bison

@@ -11,7 +11,8 @@ month_name=$(date -d "$1" +%B)
 
 date_file="data/$(date -d "$1" +%Y_%m)"
 date_files_current_year=$(seq -f"data/${year}_%02g" 1 $month)
-date_files_prev_years="$(seq -f"data/%g*" 1991 $((year-1))) $date_files_current_year data/unknown_date"
+date_files_prev_years="$(seq -f"data/%g*" 1991 $((year-1))) data/unknown_date"
+date_files_all="$date_files_prev_years $date_files_current_year"
 date_files_since_sep14="$(seq -f"data/2014_%02g" 9 12) $(seq -f"data/%g*" 2015 $((year-1))) $date_files_current_year"
 
 #Uses 8/29 so that an input date for the month I just finished will include that month as finished
@@ -24,7 +25,7 @@ unique_venues_count=$(./count_unique_venues $date_file)
 
 shows_in_month=$(wc -l $date_file |  awk '{print $1}')
 shows_in_year=$(cat $date_files_current_year | wc -l)
-shows_since_birth=$(cat $date_files_prev_years 2>/dev/null | wc -l)
+shows_since_birth=$(cat $date_files_all 2>/dev/null | wc -l)
 shows_since_sep14=$(cat $date_files_since_sep14 2>/dev/null | wc -l)
 
 avg_shows_per_week=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_in_year $(date -d "$1" +%U)")
@@ -36,12 +37,14 @@ avg_shows_since_first_show=$(awk '{printf "%.2f", $1/$2}' <<< "$shows_since_birt
 # Counting new bands/venues:
 # the 10# converts from base-10 to base-10 to strip leading zeroes that made $(()) think I wanted octal
 cur_year=$(seq -f"data/${year}_%02g" 1 $((10#$month-1))) # excludes this month
-date_files_for_new_counts="$(seq -f"data/%g*" 1991 $((year-1))) $cur_year data/unknown_date"
+date_files_for_new_counts="$date_files_prev_years $cur_year data/unknown_date"
 
 # I should probably rename new_bands.py since it doesn't just handle bands now
 # new_bands.py args: [old list], [new list], [string to append to log file name]
 new_bands_count=$(./new_bands.py "$(./unique_bands <<<$(cat $date_files_for_new_counts 2>/dev/null))" "$(./unique_bands $date_file)" "bands")
 new_venues_count=$(./new_bands.py "$(./unique_venues <<<$(cat $date_files_for_new_counts 2>/dev/null))" "$(./unique_venues $date_file)" "venues")
+new_cities_count=$(./new_bands.py "$(./unique_cities <<<$(cat $date_files_for_new_counts 2>/dev/null))" "$(./unique_cities $date_file)" "cities")
+new_states_count=$(./new_bands.py "$(./unique_states <<<$(cat $date_files_for_new_counts 2>/dev/null))" "$(./unique_states $date_file)" "states")
 
 
 ###########################
