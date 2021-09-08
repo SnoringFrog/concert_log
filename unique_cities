@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+
+var=`cut -d'|' -f 2 $1` 
+echo "$var" | awk '!a[tolower($0)]++' | sed -e 's/,//g' -e 's/|/ /g' | perl -pe 's/\n$/, /g' | perl -pe 's/, $//'
+#echo $var | sed -e 's/, /\n/g' -e 's/,//g' | awk '!a[tolower($0)]++' | perl -pe 's/\n$/, /g' | perl -pe 's/, $//'
