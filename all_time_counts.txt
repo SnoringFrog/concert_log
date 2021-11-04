@@ -1,4 +1,4 @@
-Sat, Jul 31, 2021  2:04:13 AM
+Thu, Nov  4, 2021  1:13:46 AM
       1 (neverAM)
       1 (not sure which bands go with this one)The Cohee
       1 (SP)LIT
@@ -60,8 +60,8 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Alison Self
       1 Alive Like Me
       1 All Get Out
+      1 All Good Things
       1 All My Circuits
-      1 All Time Low
       1 Allison Paige
       1 Almost People
       1 Alright Junior
@@ -97,6 +97,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Ascend the Hill
       1 Ascension
       1 Ashes of My Regrets
+      1 Ashford
       1 Ashylus
       1 Associations
       1 Asylum 13
@@ -153,6 +154,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Belle Noire
       1 Belmont
       1 Belson(maybe not this show)
+      1 Benjamin Shepherd
       1 Bent Knee
       1 Better Homes
       1 Betting on Benson?
@@ -276,7 +278,9 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Chasing Avenir
       1 Cheap Trick
       1 Cherokee Lann
+      1 Cherry Bombs
       1 Cherry Pits
+      1 Chet Porter
       1 Chief Scout
       1 Childish Gambino
       1 Chipocrite
@@ -331,10 +335,14 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Cool City
       1 Cooper's Dreams
       1 Copilot
+      1 Corey Medina
+      1 Corey Taylor
       1 Corpus Christi
       1 Cory Lanza
+      1 Cory Wells
       1 Costume Party
       1 Counting Crows
+      1 Court Street Company
       1 Covet
       1 Crab Action
       1 Crazytown
@@ -355,7 +363,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Cult Territory
       1 Culture Abuse
       1 Culture Killer
-      1 Currents
       1 Currents-CT
       1 Curses
       1 Cuzco
@@ -442,6 +449,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 DRMCTHR
       1 Drones for Queens
       1 Dropkick Murphys
+      1 Dropping Ugly
       1 Drug Yacht
       1 Dry Reef
       1 Dryjacket
@@ -483,7 +491,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Eureka California
       1 Evans City Saints
       1 Even Chains
-      1 Every Time I Die
+      1 Every King & Commoner
       1 Everyone Dies In The End
       1 Everyone Dies in Utah
       1 Everyone Knows
@@ -545,6 +553,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Freebase
       1 Frenship
       1 Froggy Fresh
+      1 From Ashes to New
       1 From Autumn to Ashes
       1 From the Archives
       1 From Years Before
@@ -583,6 +592,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Grave Digger
       1 Graveside Breakfast
       1 Graveyard
+      1 Great American Ghost
       1 Great Health
       1 Great Peacock
       1 Greater Is He
@@ -739,6 +749,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Kamala Lee
       1 Kameron Barton
       1 Karen Estella
+      1 Kasbo
       1 Kate Price
       1 Keelan Donovan
       1 Keilan Creech
@@ -825,6 +836,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Luke Jones
       1 Lurk
       1 Luzcid
+      1 Lydia Luce
       1 Lypsis the Angel
       1 M83
       1 Mac Powell
@@ -892,7 +904,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Molly's Worst Enemy
       1 Monster
       1 Morningside
-      1 Mosquito Caberet
       1 Moths
       1 Mountaintide
       1 Mourning After
@@ -969,7 +980,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Old Myrtle
       1 Old Rag
       1 Old Wounds
-      1 Olivia Dyer
+      1 Oliver Baxxter
       1 Olivia Haynes
       1 Olivia Somerlyn
       1 Olivia Spain
@@ -979,7 +990,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 On Solid Ground
       1 On the Cinder
       1 OnceDrowned
-      1 One Step Closer
       1 Opeth
       1 Opposition Bypass
       1 Organ Trail
@@ -991,6 +1001,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Outsheep
       1 Outsider
       1 Oxford Remedy
+      1 P.O.D.
       1 Paezor
       1 Paid in Full
       1 Pain in the Yeahs
@@ -1029,6 +1040,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Power Hungry
       1 Power Trip
       1 Prayer Group
+      1 Previous Love
       1 Prince Daddy and the Hyena
       1 Private I
       1 Progress
@@ -1096,6 +1108,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Rivers and Rust
       1 Roam
       1 Roan Mountain Choir
+      1 Robert Cray Band
       1 Robert Pierre
       1 Rome Hero Foxes
       1 Rothschild
@@ -1115,11 +1128,11 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Safe Word
       1 Sailor's Mouth
       1 Saint Asonia
+      1 Saint Samuel
       1 Saintseneca
       1 Saliva
       1 Sam Holland
       1 Samuel Powers
-      1 San Holo
       1 Sanction
       1 Sandbox Scars
       1 Save Us From the Archon
@@ -1139,6 +1152,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Seeking Solace
       1 Seige of Tyranny
       1 Sekengard
+      1 Self Defense Family
       1 Self Destruct
       1 Separated
       1 Serpent Heart
@@ -1178,6 +1192,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Sir No Sir
       1 Skeletor and the Grey Skulls
       1 Skinny Lister
+      1 Skye Zentz
       1 Skyharbor
       1 Skylar Spence
       1 Skyless
@@ -1185,6 +1200,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Slaughter to Prevail
       1 Slaves
       1 Slayer
+      1 Sleep Signals
       1 Sleeper
       1 Sleeping Patterns
       1 Sleepwalkers
@@ -1199,6 +1215,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Snake Mountain Revival
       1 So Much Light
       1 Society Abuse
+      1 Society of Broken Souls
       1 Sofi Tukker
       1 Softspoken
       1 Some Jaywalkers
@@ -1247,6 +1264,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Stoop Kids
       1 Straight to VHS
       1 Strayer
+      1 Stress Dolls
       1 STRFKR
       1 Strike Out Kid
       1 Strong Water
@@ -1284,6 +1302,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Tall Heights
       1 Tall Tall Trees
       1 Tantric
+      1 Tanya Gallagher
       1 Tapestries
       1 Taylor Carson
       1 Tchami
@@ -1292,6 +1311,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Teen Death
       1 Teenage Wrist
       1 Tel
+      1 Temple of Angels
       1 Ten After Two
       1 Ten Ton Hammer
       1 Ternion
@@ -1305,7 +1325,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Tetrarch
       1 Thank You Scientist
       1 That 1 Guy
-      1 The Acacia Strain
       1 The Aces
       1 The Agony Scene
       1 The Almighty Rhombus
@@ -1348,7 +1367,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 The Funeral Portrait
       1 The Fustics
       1 The Fuzz Band
-      1 The Ghost Inside
       1 The Ghost of Paul Revere
       1 The Grease Monkeys
       1 The Great Commision
@@ -1366,7 +1384,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 The Love Language
       1 The Lumineers
       1 The Mad Children
-      1 The Maine
       1 The Mantras
       1 The Mentors
       1 The Menzingers
@@ -1399,12 +1416,14 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 The Summer Set
       1 The Tea Club
       1 The Thieving Hand
+      1 The Town Pants
       1 The Trongone Band
       1 The Turning
       1 The Used
       1 The Vespers
       1 The Wake Within
       1 The Wet Boys
+      1 The Wilhelm Scream
       1 The Woodpile
       1 The World Inferno/Friendship Society
       1 The You Go Girls
@@ -1533,6 +1552,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Whiskey Diablo
       1 Whiskey Wells
       1 Widow Rings
+      1 Widowspeak
       1 Wild Hymns
       1 Wild Pink
       1 Will Overman
@@ -1580,6 +1600,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       1 Youth Fountain
       1 Youth Hostel
       1 Yuth Forever
+      1 Zach Benson
       1 Zakkr
       1 Zealand Worship
       1 ZTU
@@ -1595,6 +1616,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 After the Movies
       2 Alexa Rose
       2 All The Trees and Little Me
+      2 All Time Low
       2 Alliteration
       2 Amessa
       2 Anamanaguchi
@@ -1642,6 +1664,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 Copper and Stars
       2 Creations
       2 Crowder
+      2 Currents
       2 Currents-NC
       2 Dad Jokes
       2 Dance Gavin Dance
@@ -1668,6 +1691,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 Errant
       2 Eryn Noelle
       2 Every Day
+      2 Every Time I Die
       2 Everymen
       2 Fallout of Fear
       2 Fire From The Gods
@@ -1695,7 +1719,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 Ghost Servant
       2 Glenrose
       2 Good Charlotte
-      2 Grayscale
       2 Greyhaven
       2 Gull
       2 Hail the Sun
@@ -1708,7 +1731,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 High Water
       2 House of Heroes
       2 House&Home
-      2 Humbird
       2 I Lead Leviathan
       2 I the Mighty
       2 Illucinate
@@ -1724,7 +1746,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 Joy Whitlock
       2 Kayak Jones
       2 Keely Burn
-      2 Keep Flying
       2 Kevin Putnam
       2 Killswitch Engage
       2 Kississippi
@@ -1765,6 +1786,8 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 Norma Jean
       2 Nuclear Desolation
       2 Okilly Dokilly
+      2 Olivia Dyer
+      2 One Step Closer
       2 One Year Later
       2 Orlee
       2 Our Blue Lights
@@ -1790,6 +1813,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 Ruin
       2 Sabella
       2 Safe Bet
+      2 San Holo
       2 Savage Hands
       2 SeeYouSpaceCowboy
       2 Senses Fail
@@ -1809,11 +1833,9 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 Sophia Hernandez
       2 Spirit Gun
       2 Split Wrist
-      2 Starcoast
       2 Steal the Prize
       2 Strawberry Girls
       2 Stray from the Path
-      2 Sub-Radio
       2 Such Great Heights
       2 Suffer Through
       2 Suicide Season
@@ -1828,16 +1850,19 @@ Sat, Jul 31, 2021  2:04:13 AM
       2 Taking Back Sunday
       2 Tegan and Sara
       2 Tenth Avenue North
+      2 The Acacia Strain
       2 The Blue Sky Disaster
       2 The Cazz
       2 The Cemetery Boys
       2 The Chariot
       2 The Collection
       2 The Framers
+      2 The Ghost Inside
       2 The Great Commission
       2 The Honest Few
       2 The Lazy Dangers
       2 The Letter Black
+      2 The Maine
       2 The Mostly Dead
       2 The New Mutiny
       2 The Protomen
@@ -1910,6 +1935,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       3 For Today
       3 Friends of Pedro
       3 Furnace Creek
+      3 Grayscale
       3 Hackensaw Boys
       3 Haley Greene
       3 Harm
@@ -1919,6 +1945,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       3 Hit the Lights
       3 Hop Along
       3 Hotel Books
+      3 Humbird
       3 Iselia
       3 Janelle Maree
       3 Jon Charles Dwyer
@@ -1927,6 +1954,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       3 Just Standing
       3 Justin Cole
       3 Kaonashi
+      3 Keep Flying
       3 Kill the Mime
       3 KJ-52
       3 Knocked Loose
@@ -1939,7 +1967,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       3 Listener
       3 Matisyahu
       3 Mayday Parade
-      3 Micah Kimber
       3 Microwave
       3 Mike Frazier and the Dying Wild
       3 Mirkwood
@@ -1965,6 +1992,8 @@ Sat, Jul 31, 2021  2:04:13 AM
       3 Sleep On It
       3 Sleeping Giant
       3 Sleepwave
+      3 Starcoast
+      3 Sub-Radio
       3 Sun and Flesh
       3 Texas in July
       3 The Chicken Boys
@@ -1992,7 +2021,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       4 Ann Perkins
       4 As Cities Burn
       4 Asaph
-      4 Ashley Wilda
       4 Atlas Rhoads
       4 August Burns Red
       4 Autopsy Affair
@@ -2000,14 +2028,12 @@ Sat, Jul 31, 2021  2:04:13 AM
       4 Born of Osiris
       4 BoughtXBlood
       4 Bring the Arsenal
-      4 Chloe Wallace
       4 Decyfer Down
       4 Demons
       4 Dogwood and Holly
       4 Drug Church
       4 Followship
       4 Formerly Bodies
-      4 Ian Randall Thornton
       4 Icarus
       4 Irae
       4 Joel Kaiser
@@ -2015,6 +2041,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       4 Karen Estrella
       4 Many Rooms
       4 Mediator
+      4 Micah Kimber
       4 Murder
       4 O House of Jacob
       4 Of Tyrants
@@ -2030,32 +2057,31 @@ Sat, Jul 31, 2021  2:04:13 AM
       4 The Burning Hearts
       4 The World Is A Beautiful Place and I Am No Longer Afraid To Die
       4 theLionhearted
-      4 Thrice
       4 TLVS
-      4 Touche Amore
       4 Underoath
       4 Varials
       4 Vilified
       4 Warwick
       4 Weathered
+      5 Ashley Wilda
       5 Big Something
       5 Bloom
       5 Born Sick
       5 Broken Harmonics
       5 Carl Anderson
+      5 Chloe Wallace
       5 Colin Phils
-      5 Comeback Kid
       5 Countermeasures
       5 Crooked Forest
       5 Dylan Vestal
       5 Elephant Jake
       5 Emery
-      5 Fox and the Bear
       5 Generator
       5 Gideon
       5 Give Em Hell Kid
       5 Having Keepsake
       5 Heavens Die
+      5 Ian Randall Thornton
       5 Learner
       5 Mirador
       5 My Heart My Anchor
@@ -2071,17 +2097,19 @@ Sat, Jul 31, 2021  2:04:13 AM
       5 The Death In Me
       5 The Handsome Bandits
       5 This Wild Life
+      5 Thrice
       5 Time Nothing
       5 Tiny Moving Parts
       5 Tirades of a Timid Tongue
       5 Todd Agnew
+      5 Touche Amore
       5 Toxic Moxie
-      5 Turnover
       5 Wesley Montgomery
       5 White Petals
       5 Witness
       5 Wolves at the Gate
       6 Christian Welch
+      6 Comeback Kid
       6 Deathsinger
       6 Dogwood Tales
       6 Ella Vader
@@ -2095,7 +2123,6 @@ Sat, Jul 31, 2021  2:04:13 AM
       6 Joy
       6 L.A. Dies
       6 Lloyd Harmon
-      6 Movements
       6 Poured Out
       6 Rowan
       6 Second to Safety
@@ -2104,6 +2131,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       6 Someone Just Like You
       6 Sunndrug
       6 The Devil Wears Prada
+      6 Turnover
       6 Vacation Manor
       6 Vagabonds
       6 Venomspitter
@@ -2115,17 +2143,18 @@ Sat, Jul 31, 2021  2:04:13 AM
       7 Dogs Eyes
       7 Drop the Girl
       7 Eight Days From December
+      7 Fox and the Bear
       7 Genosha
       7 Have Mercy
       7 Heavy Burdens
       7 I Ohms
       7 Live For What Lasts
       7 mewithoutYou
+      7 Movements
       7 Must Be The Holy Ghost
       7 Pianos Become the Teeth
       7 Ray Buckner
       7 The Stillborn Poet
-      7 The Story So Far
       7 Threads
       7 Two Cars
       8 Bombadil
@@ -2134,7 +2163,7 @@ Sat, Jul 31, 2021  2:04:13 AM
       8 Invaluable
       8 My Epic
       8 Paper Trail
-      8 Rosemont
+      8 The Story So Far
       8 This Withered Heart
       8 To Speak of Wolves
       9 Beggar's Row
@@ -2142,26 +2171,27 @@ Sat, Jul 31, 2021  2:04:13 AM
       9 Every King and Commoner
       9 Mongrels
       9 Of Alessa
+      9 Rosemont
      10 Fin
      10 Hemingway
      10 Quick On My Feet
      11 Pathway Home
      11 yesman
      12 DENS
-     12 Mosquito Cabaret
      12 Oh Sleeper
      13 Household
+     13 Mosquito Cabaret
      14 The Separate
      15 Accident Prone
      15 Born Hollow
      18 The Obsolete Man
      19 Boxford
-     19 Kept On Hold
+     20 Kept On Hold
      21 Gaffer Project
      22 Inthewater
      23 Kevin Schlereth
      30 Comrades
-     30 Logan Vath
      31 Chris Bernstorf
+     33 Logan Vath
      34 Eaves
-     36 The Last Bison
+     37 The Last Bison
